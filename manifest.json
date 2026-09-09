@@ -1,6 +1,6 @@
 {
  "pack": "Serveur RP Medieval",
- "version": "2026.09.09-56b7bb99",
+ "version": "2026.09.09-30beb2b9",
  "serveur": "irvine-abilities.tun.ply.gg",
  "instance": "serveur_rp_medieval",
  "base": "https://raw.githubusercontent.com/emile-thiebaut/mod_RPmedieval/main",
@@ -84,6 +84,12 @@
    "taille": 9911871
   },
   {
+   "chemin": "mods/Davincis-Vessels-Mod-1.12.2.jar",
+   "source": "pack/mods/Davincis-Vessels-Mod-1.12.2.jar",
+   "sha256": "f6b0463825e2ccebd135a3653c39dbeba280f8ccaf2e1bf10cf53afd5e04dcba",
+   "taille": 538295
+  },
+  {
    "chemin": "mods/DynamicTrees-1.12.2-0.9.29.jar",
    "source": "pack/mods/DynamicTrees-1.12.2-0.9.29.jar",
    "sha256": "82b779226d671ebbe305fca7d673a10fbc192508d7667273628b5c299e6fd83c",
@@ -158,8 +164,8 @@
   {
    "chemin": "mods/MedievalCore.jar",
    "source": "pack/mods/MedievalCore.jar",
-   "sha256": "ca9692ac72ad56e19eff906e4f33ce27823051db9829078bfec388321e7fb04b",
-   "taille": 943048
+   "sha256": "cda858aaa58b7da22013c5ce7a24542a71c7c1a8a9875d49524512a843aba473",
+   "taille": 1052667
   },
   {
    "chemin": "mods/OptiFine-1.12.2_HD_U_G5.jar",
@@ -300,6 +306,12 @@
    "taille": 493285
   },
   {
+   "chemin": "mods/movingworld-1.12-6.353-full.jar",
+   "source": "pack/mods/movingworld-1.12-6.353-full.jar",
+   "sha256": "0912150579a79147d92a2ab4b87b61ec14ccb051e7bc0dc5c424636df869b99e",
+   "taille": 1198794
+  },
+  {
    "chemin": "mods/phosphor-forge-mc1.12.2-0.2.7-universal.jar",
    "source": "pack/mods/phosphor-forge-mc1.12.2-0.2.7-universal.jar",
    "sha256": "4ddfdeca30c2809047f8dec84c7fb49b820e930fbe1657d90404e64c78184228",
@@ -348,31 +360,25 @@
    "taille": 30085
   },
   {
-   "chemin": "servers.dat",
-   "source": "pack/base/servers.dat",
-   "sha256": "ee71c488bbd2c0daf3ed20c6c5829ecd8d0e4495bbd0a0bd3a9569519d803627",
-   "taille": 100
-  },
-  {
    "chemin": "TLauncherAdditional.json",
    "source": "pack/base/TLauncherAdditional.json",
-   "sha256": "0f9dcbc1d63e2169e5d9ab9f8f075f77de1fe1109004d30c3723668d6017a443",
-   "taille": 147783
+   "sha256": "8fcf862a4eedc5bb6f73adb6619b9bc5f2348fa9284f9a81325e5f577c258408",
+   "taille": 156205
   }
  ],
  "archives": [
   {
    "cible": "config",
    "source": "pack/config.zip",
-   "sha256": "598a5029ccb13548e8d29f8991bf7701374325e2a30269532e749d3538caa040",
-   "taille": 738491,
+   "sha256": "cc23b4b3ce7fb4056db0ce61634eba2a5a4b508da7dca7b2420f2df6541111c7",
+   "taille": 754831,
    "purge": false
   },
   {
    "cible": "scripts",
    "source": "pack/scripts.zip",
-   "sha256": "a22805e2bb80b7e9e510fcc45906d3615f9e72ecd2bf2923316a22c8ed5fbbb0",
-   "taille": 37222,
+   "sha256": "3703fe6bd9d294a7f10101af1e320065323fa52db9fbe9717b3d0c26fd83e13b",
+   "taille": 35569,
    "purge": true
   },
   {

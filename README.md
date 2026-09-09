@@ -1,6 +1,6 @@
 # Serveur RP Medieval - pack de jeu
 
-Version publiee : **2026.09.09-56b7bb99** (59 mods)
+Version publiee : **2026.09.09-30beb2b9** (60 mods)
 
 ## Pour jouer
 
