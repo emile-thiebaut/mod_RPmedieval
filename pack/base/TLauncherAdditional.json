@@ -1,0 +1,5114 @@
+{
+  "activateSkinCapeForUserVersion": false,
+  "skipHashsumValidation": false,
+  "additionalFiles": [],
+  "tlauncherVersion": 0,
+  "modpack": {
+    "modpackMemory": false,
+    "memory": 0,
+    "id": -518622587279900,
+    "name": "serveur_rp_medieval",
+    "favorite": false,
+    "version": {
+      "mods": [
+        {
+          "stateGameElement": "active",
+          "id": 10000020,
+          "name": "TL skin and cape",
+          "author": "tlauncher.org",
+          "uuid": "cd3ef9ea-62dd-11e6-b39e-002590a1379b",
+          "linkProject": "https://tlauncher.org",
+          "favorite": false,
+          "categories": [],
+          "picture": 73988,
+          "pictures": [
+            73989,
+            73990
+          ],
+          "lanName": "tl-skin-and-cape",
+          "version": {
+            "id": 11000372,
+            "name": "1.4",
+            "updateDate": 1573765200000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "d0483ac68cbeea22d6a2c46984c4cc7de4d3ce42",
+              "size": 193898,
+              "path": "mods/tlskincape1.12.2-1.4.jar",
+              "url": "/mods/10000020/11000372/tlskincape1.12.2-1.4.jar"
+            },
+            "installed": 52498061,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 332992,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 70,
+            "name": "26.2"
+          },
+          "updated": 1783513656000,
+          "update": 1783513656000,
+          "downloadALL": 695934077,
+          "available": true,
+          "parser": false,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 9999999,
+          "name": "Optifine",
+          "author": "OptiFine.net",
+          "uuid": "cd3ef9ea-62dd-11e6-b39e-002590a1379b",
+          "linkProject": "https://optifine.net",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            },
+            {
+              "id": 2,
+              "name": "adventure_rpg",
+              "shortName": "rpg",
+              "nesting": 0
+            },
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 52103,
+          "pictures": [],
+          "lanName": "optifine",
+          "version": {
+            "id": 11001818,
+            "name": "OptiFine-1.12.2_HD_U_G5",
+            "updateDate": 1612558800000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "db971767e460269f2317bb5df57d8f522be65e2c",
+              "size": 2457427,
+              "path": "mods/OptiFine-1.12.2_HD_U_G5.jar",
+              "url": "/mods/9999999/11001818/OptiFine-1.12.2_HD_U_G5.jar"
+            },
+            "installed": 20872026,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 106929,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1778744931000,
+          "update": 1778744931000,
+          "downloadALL": 239411780,
+          "available": true,
+          "parser": false,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 268704,
+          "name": "CraftStudio API",
+          "author": "ZeAmateis Timmypote",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/craftstudio-api",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            },
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 800863,
+          "pictures": [],
+          "lanName": "craftstudio-api",
+          "version": {
+            "id": 2661859,
+            "name": "universal-1.0.1.95-mc1.12-alpha",
+            "updateDate": 1547849662000,
+            "type": "beta",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              },
+              {
+                "id": 2,
+                "name": "1.12.1"
+              },
+              {
+                "id": 3,
+                "name": "1.12"
+              }
+            ],
+            "metadata": {
+              "sha1": "868d96028427e39495f441e43e60a9b77225b5ad",
+              "size": 90465,
+              "path": "mods/CraftStudioAPI-universal-1.0.1.95-mc1.12-alpha.jar",
+              "url": "/mods/268704/2661859/CraftStudioAPI-universal-1.0.1.95-mc1.12-alpha.jar"
+            },
+            "installed": 153156,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 136,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1547758800000,
+          "update": 1547758800000,
+          "downloadALL": 174686,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 261199,
+          "name": "Animania Base",
+          "author": "Purplicious_Cow Tschipp raptorfarian RazzleberryFox",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/animania",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 33,
+              "name": "technology_genetics",
+              "shortName": "genetics",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            },
+            {
+              "id": 24,
+              "name": "mc_food",
+              "shortName": "food",
+              "nesting": 0
+            },
+            {
+              "id": 10,
+              "name": "technology_farming",
+              "shortName": "farming",
+              "nesting": 0
+            }
+          ],
+          "picture": 9436,
+          "pictures": [],
+          "lanName": "animania",
+          "version": {
+            "id": 3213136,
+            "name": "animania-1.12.2-base-2.0.3.28",
+            "updateDate": 1613963599000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "bc5624de13f26fe83e7a99431a812531c8f558a9",
+              "size": 1626689,
+              "path": "mods/animania-1.12.2-base-2.0.3.28.jar",
+              "url": "/mods/261199/3213136/animania-1.12.2-base-2.0.3.28.jar"
+            },
+            "installed": 249500,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 709,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 776,
+              "name": "CraftStudio API",
+              "gameEntityId": 268704,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1613963580000,
+          "update": 1613963580000,
+          "downloadALL": 441775,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 407657,
+          "name": "Animania Extra Animals",
+          "author": "tschipp",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/animania-extra",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            },
+            {
+              "id": 24,
+              "name": "mc_food",
+              "shortName": "food",
+              "nesting": 0
+            },
+            {
+              "id": 10,
+              "name": "technology_farming",
+              "shortName": "farming",
+              "nesting": 0
+            }
+          ],
+          "picture": 182038,
+          "pictures": [],
+          "lanName": "animania-extra",
+          "version": {
+            "id": 3213137,
+            "name": "animania-1.12.2-extra-1.0.2.28",
+            "updateDate": 1613963673000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "5970c0bb661f35bae18f0aa981e25b89fa89c21b",
+              "size": 1926227,
+              "path": "mods/animania-1.12.2-extra-1.0.2.28.jar",
+              "url": "/mods/407657/3213137/animania-1.12.2-extra-1.0.2.28.jar"
+            },
+            "installed": 227737,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 597,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 776,
+              "name": "CraftStudio API",
+              "gameEntityId": 268704,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 1173,
+              "name": "Animania Base",
+              "gameEntityId": 261199,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1613963640000,
+          "update": 1613963640000,
+          "downloadALL": 250889,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 407632,
+          "name": "Animania Farm",
+          "author": "tschipp",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/animania-farm",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            },
+            {
+              "id": 24,
+              "name": "mc_food",
+              "shortName": "food",
+              "nesting": 0
+            },
+            {
+              "id": 10,
+              "name": "technology_farming",
+              "shortName": "farming",
+              "nesting": 0
+            }
+          ],
+          "picture": 182045,
+          "pictures": [],
+          "lanName": "animania-farm",
+          "version": {
+            "id": 3213139,
+            "name": "animania-1.12.2-farm-1.0.2.28",
+            "updateDate": 1613963726000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "ddc99341ac99825cee1922fa62be47bc6811a647",
+              "size": 5530204,
+              "path": "mods/animania-1.12.2-farm-1.0.2.28.jar",
+              "url": "/mods/407632/3213139/animania-1.12.2-farm-1.0.2.28.jar"
+            },
+            "installed": 193758,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 484,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 776,
+              "name": "CraftStudio API",
+              "gameEntityId": 268704,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 1173,
+              "name": "Animania Base",
+              "gameEntityId": 261199,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1613963700000,
+          "update": 1613963700000,
+          "downloadALL": 212798,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 955399,
+          "name": "GlitchCore",
+          "author": "TheAdubbz TheAdubbz GlitchfiendMods",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/glitchcore",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 800761,
+          "pictures": [],
+          "lanName": "glitchcore11",
+          "version": {
+            "id": 7383191,
+            "name": "GlitchCore-1.12.2-1.0.0-universal",
+            "updateDate": 1766804037000,
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "1bac22f07d6f2400d64dc1ae270cd8ffe8b557c6",
+              "size": 25897,
+              "path": "mods/GlitchCore-1.12.2-1.0.0-universal.jar",
+              "url": "/mods/955399/7383191/GlitchCore-1.12.2-1.0.0-universal.jar"
+            },
+            "installed": 99233,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 70,
+            "name": "26.2"
+          },
+          "updated": 1782594000000,
+          "update": 1782594000000,
+          "downloadALL": 4131002,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 291874,
+          "name": "Serene Seasons",
+          "author": "Glitchfiend TDWP_FTW TheAdubbz",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/serene-seasons",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 14,
+              "name": "world_biomes",
+              "shortName": "biomes",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            },
+            {
+              "id": 10,
+              "name": "technology_farming",
+              "shortName": "farming",
+              "nesting": 0
+            }
+          ],
+          "picture": 797117,
+          "pictures": [
+            240187,
+            240185,
+            240189,
+            240191,
+            240186,
+            240188,
+            240192,
+            240194,
+            240193,
+            240184,
+            240195,
+            240190
+          ],
+          "lanName": "serene-seasons",
+          "version": {
+            "id": 2799213,
+            "name": "1.12.2-1.2.18-universal",
+            "updateDate": 1569780000000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "05acc4faf6f5ca31215599c0ebf778ba18a9121b",
+              "size": 185187,
+              "path": "mods/SereneSeasons-1.12.2-1.2.18-universal.jar",
+              "url": "/mods/291874/2799213/SereneSeasons-1.12.2-1.2.18-universal.jar"
+            },
+            "installed": 376247,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 2689,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 2,
+              "name": "Fabric API",
+              "gameEntityId": 306612,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 6285,
+              "name": "GlitchCore",
+              "gameEntityId": 955399,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 70,
+            "name": "26.2"
+          },
+          "updated": 1780174800000,
+          "update": 1780174800000,
+          "downloadALL": 4453429,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 252818,
+          "name": "Dynamic Trees",
+          "author": "ferreusveritas",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/dynamictrees",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 14,
+              "name": "world_biomes",
+              "shortName": "biomes",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            },
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            },
+            {
+              "id": 10,
+              "name": "technology_farming",
+              "shortName": "farming",
+              "nesting": 0
+            }
+          ],
+          "picture": 800291,
+          "pictures": [
+            17022,
+            17059,
+            17013,
+            17036,
+            17043,
+            16911,
+            16992,
+            17040,
+            224535,
+            16946,
+            17028,
+            17061,
+            224537,
+            17001,
+            16956,
+            17074,
+            16965,
+            16987,
+            224534,
+            16917,
+            16923,
+            16980,
+            16995,
+            224536,
+            17058,
+            16949,
+            16974,
+            16940,
+            17010,
+            16935,
+            17078,
+            16932,
+            17050,
+            17025,
+            17018,
+            16968,
+            17069
+          ],
+          "lanName": "dynamictrees",
+          "version": {
+            "id": 3812473,
+            "name": "1.12.2-0.9.29",
+            "updateDate": 1654026044000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "37c383df58c0c269c285e99e5498047c794eb7a3",
+              "size": 909851,
+              "path": "mods/DynamicTrees-1.12.2-0.9.29.jar",
+              "url": "/mods/252818/3812473/DynamicTrees-1.12.2-0.9.29.jar"
+            },
+            "installed": 881857,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 6069,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 2212,
+              "name": "Dynamic Trees Plus",
+              "gameEntityId": 478155,
+              "dependencyType": "optional"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 69,
+            "name": "26.1.2"
+          },
+          "updated": 1783717200000,
+          "update": 1783717200000,
+          "downloadALL": 7032453,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 271856,
+          "name": "Geolosys",
+          "author": "oitsjustjose",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/geolosys",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 23,
+              "name": "world_ores_resources",
+              "shortName": "ores",
+              "nesting": 0
+            },
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 845759,
+          "pictures": [
+            31440,
+            31438,
+            31435,
+            31432,
+            31429,
+            31430
+          ],
+          "lanName": "geolosys",
+          "version": {
+            "id": 6228868,
+            "name": "1.12.2-3.0.12",
+            "updateDate": 1740378815000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "589080f389534a77c3a32064b148c5315f40862d",
+              "size": 349581,
+              "path": "mods/Geolosys-1.12.2-3.0.12.jar",
+              "url": "/mods/271856/6228868/Geolosys-1.12.2-3.0.12.jar"
+            },
+            "installed": 482,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 27,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1753909200000,
+          "update": 1753909200000,
+          "downloadALL": 27673,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 256141,
+          "name": "Rustic",
+          "author": "mangoose3039",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/rustic",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 83,
+              "name": "storage",
+              "shortName": "storage",
+              "nesting": 0
+            },
+            {
+              "id": 69,
+              "name": "crafttweaker",
+              "shortName": "crafttweaker",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            },
+            {
+              "id": 24,
+              "name": "mc_food",
+              "shortName": "food",
+              "nesting": 0
+            },
+            {
+              "id": 10,
+              "name": "technology_farming",
+              "shortName": "farming",
+              "nesting": 0
+            }
+          ],
+          "picture": 993108,
+          "pictures": [
+            18497,
+            18489,
+            18541,
+            18551,
+            18527,
+            18516,
+            18505,
+            18512,
+            18547,
+            18494,
+            18530,
+            18523,
+            18483,
+            18520
+          ],
+          "lanName": "rustic",
+          "version": {
+            "id": 6031613,
+            "name": "rustic-1.2.0",
+            "updateDate": 1735425210000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "e646f5487a6208ae7c60863e8857513e2c708620",
+              "size": 1656987,
+              "path": "mods/rustic-1.2.0.jar",
+              "url": "/mods/256141/6031613/rustic-1.2.0.jar"
+            },
+            "installed": 15325,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 632,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1735333200000,
+          "update": 1735333200000,
+          "downloadALL": 465764,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 229769,
+          "name": "Streams",
+          "author": "delvr",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/streams",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 14,
+              "name": "world_biomes",
+              "shortName": "biomes",
+              "nesting": 0
+            }
+          ],
+          "picture": 845139,
+          "pictures": [
+            23270
+          ],
+          "lanName": "streams",
+          "version": {
+            "id": 3109315,
+            "name": "1.12-0.4.9",
+            "updateDate": 1605144611000,
+            "type": "beta",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              },
+              {
+                "id": 2,
+                "name": "1.12.1"
+              },
+              {
+                "id": 3,
+                "name": "1.12"
+              }
+            ],
+            "metadata": {
+              "sha1": "82408b7604a56f06fbb25f23e9aef2ea154e17c2",
+              "size": 269695,
+              "path": "mods/Streams-1.12-0.4.9.jar",
+              "url": "/mods/229769/3109315/Streams-1.12-0.4.9.jar"
+            },
+            "installed": 61082,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 178,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1605128400000,
+          "update": 1605128400000,
+          "downloadALL": 86948,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -519526239505200,
+          "name": "Farseek-1.12-2.5.1",
+          "favorite": false,
+          "version": {
+            "id": -519526257160700,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "73664ec7575085d4a18010a9bce636b43ea40b60",
+              "size": 476561,
+              "path": "mods/Farseek-1.12-2.5.1.jar",
+              "url": "mods/Farseek-1.12-2.5.1.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -519526257235500,
+          "name": "rats-3.2.14-1.12.2",
+          "favorite": false,
+          "version": {
+            "id": -519526288987900,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "f0e850ec2a003d5ac08d1611ce30486d34ac9b6a",
+              "size": 4267490,
+              "path": "mods/rats-3.2.14-1.12.2.jar",
+              "url": "mods/rats-3.2.14-1.12.2.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 243298,
+          "name": "LLibrary",
+          "author": "iLexiconn JamiesWhiteShirt pau101 BobMowzie jglrxavpok FiskFille TheCyberBrick gegy",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/llibrary",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 844233,
+          "pictures": [],
+          "lanName": "llibrary",
+          "version": {
+            "id": 3116493,
+            "name": "llibrary-1.7.20-1.12.2",
+            "updateDate": 1605772472000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "fba97f9dbe750f17904c00db8ff58291595106b8",
+              "size": 884550,
+              "path": "mods/llibrary-1.7.20-1.12.2.jar",
+              "url": "/mods/243298/3116493/llibrary-1.7.20-1.12.2.jar"
+            },
+            "installed": 3186720,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 3691,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1726174800000,
+          "update": 1726174800000,
+          "downloadALL": 3530374,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -519587461146800,
+          "name": "llibrary-core-1.0.11-1.12.2",
+          "favorite": false,
+          "version": {
+            "id": -519587462021100,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "6bdaeaf52c53263ff545e2eafb90a1fb43c160b5",
+              "size": 446755,
+              "path": "mods/memory_repo/net/ilexiconn/llibrary-core/1.0.11-1.12.2/llibrary-core-1.0.11-1.12.2.jar",
+              "url": "mods/memory_repo/net/ilexiconn/llibrary-core/1.0.11-1.12.2/llibrary-core-1.0.11-1.12.2.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 239197,
+          "name": "CraftTweaker",
+          "author": "jaredlll08 StanH",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/crafttweaker",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            },
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            },
+            {
+              "id": 69,
+              "name": "crafttweaker",
+              "shortName": "crafttweaker",
+              "nesting": 0
+            }
+          ],
+          "picture": 781715,
+          "pictures": [],
+          "lanName": "crafttweaker1",
+          "version": {
+            "id": 8051578,
+            "name": "2-1.12-4.1.20.715",
+            "updateDate": 1778136635000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "cdfbe5389ce16dc6e6bf9d95367d80a7d7305ac9",
+              "size": 1610755,
+              "path": "mods/CraftTweaker2-1.12-4.1.20.715.jar",
+              "url": "/mods/239197/8051578/CraftTweaker2-1.12-4.1.20.715.jar"
+            },
+            "installed": 6607,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 1021,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 3628,
+              "name": "JEITweaker",
+              "gameEntityId": 368718,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1773694800000,
+          "update": 1773694800000,
+          "downloadALL": 2927180,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "no_active",
+          "id": 968474,
+          "name": "FermiumBooter",
+          "author": "fonnymunkey",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/fermiumbooter",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 1182308,
+          "pictures": [],
+          "lanName": "fermiumbooter",
+          "version": {
+            "id": 7279112,
+            "name": "`-1.4.1",
+            "updateDate": 1764527342000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "89547fd24ac5a22b4268b61c73b8e67da45d2753",
+              "size": 1931503,
+              "path": "mods/%60FermiumBooter-1.4.1.jar",
+              "url": "/mods/968474/7279112/%2560FermiumBooter-1.4.1.jar"
+            },
+            "installed": 10677,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1782075600000,
+          "update": 1782075600000,
+          "downloadALL": 25807,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1484881,
+          "name": "Froggy's InControlContinuation",
+          "author": "fonnymunkey",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/froggyincntrlcont",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            }
+          ],
+          "picture": 1380353,
+          "pictures": [
+            1383035
+          ],
+          "lanName": "froggyincntrlcont",
+          "version": {
+            "id": 8193869,
+            "name": "incontrol-1.12-3.10.4",
+            "updateDate": 1780537645000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "03c019ce808a807437fa24acb753790eb487e822",
+              "size": 187856,
+              "path": "mods/incontrol-1.12-3.10.4.jar",
+              "url": "/mods/1484881/8193869/incontrol-1.12-3.10.4.jar"
+            },
+            "installed": 22,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 6321,
+              "name": "FermiumBooter",
+              "gameEntityId": 968474,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1780520400000,
+          "update": 1780520400000,
+          "downloadALL": 61,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "no_active",
+          "id": 854949,
+          "name": "Fusion (Connected Textures)",
+          "author": "SuperMartijn642 SuperMartijn642",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 787841,
+          "pictures": [
+            998972,
+            998968,
+            998970,
+            998969,
+            485238,
+            998965,
+            998966,
+            998971,
+            485237,
+            998973,
+            485239,
+            998975,
+            998974,
+            998967
+          ],
+          "lanName": "fusion-connected-textures",
+          "version": {
+            "id": 8534655,
+            "name": "Fusion 1.3.11 for Forge 1.12",
+            "updateDate": 1785342575000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              },
+              {
+                "id": 2,
+                "name": "1.12.1"
+              },
+              {
+                "id": 3,
+                "name": "1.12"
+              }
+            ],
+            "metadata": {
+              "sha1": "6eca3d14c909fecce45eae14c062b277e48a7776",
+              "size": 1757424,
+              "path": "mods/fusion-1.3.11-forge-mc1.12.jar",
+              "url": "/mods/854949/8534655/fusion-1.3.11-forge-mc1.12.jar"
+            },
+            "installed": 0,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 70,
+            "name": "26.2"
+          },
+          "updated": 1785272400000,
+          "update": 1785272400000,
+          "downloadALL": 2085867,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 312359,
+          "name": "Dawn Of Time",
+          "author": "dawnoftime_team Poulpynou TheGoldenWorld",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/dawn-of-time",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 23,
+              "name": "world_ores_resources",
+              "shortName": "ores",
+              "nesting": 0
+            },
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            },
+            {
+              "id": 24,
+              "name": "mc_food",
+              "shortName": "food",
+              "nesting": 0
+            },
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 801460,
+          "pictures": [
+            542534,
+            542531,
+            542537,
+            542538,
+            542532,
+            542536,
+            542533,
+            542535
+          ],
+          "lanName": "dawn-of-time",
+          "version": {
+            "id": 2904632,
+            "name": "dawnoftime_builder_edition-1.0.7",
+            "updateDate": 1584499003000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "39cbfb7fd08a84cb0e0037577018cdc0c5c002de",
+              "size": 1324905,
+              "path": "mods/dawnoftime_builder_edition-1.0.7.jar",
+              "url": "/mods/312359/2904632/dawnoftime_builder_edition-1.0.7.jar"
+            },
+            "installed": 33979,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 96,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 5680,
+              "name": "Fusion (Connected Textures)",
+              "gameEntityId": 854949,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 65,
+            "name": "1.21.10"
+          },
+          "updated": 1783026000000,
+          "update": 1783026000000,
+          "downloadALL": 140065,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 221826,
+          "name": "Custom NPCs",
+          "author": "Noppes",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/custom-npcs",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 2,
+              "name": "adventure_rpg",
+              "shortName": "rpg",
+              "nesting": 0
+            }
+          ],
+          "picture": 844896,
+          "pictures": [],
+          "lanName": "custom-npcs",
+          "version": {
+            "id": 2996912,
+            "name": "_1.12.2-(05Jul20)",
+            "updateDate": 1593908549000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "a5469076df8b1d9db4e483131dc94e270b8bc7cd",
+              "size": 9911871,
+              "path": "mods/CustomNPCs_1.12.2-(05Jul20).jar",
+              "url": "/mods/221826/2996912/CustomNPCs_1.12.2-(05Jul20).jar"
+            },
+            "installed": 1910059,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 8195,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 31,
+            "name": "1.16.5"
+          },
+          "updated": 1652562000000,
+          "update": 1652562000000,
+          "downloadALL": 5503865,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 246391,
+          "name": "Tough As Nails",
+          "author": "Glitchfiend TDWP_FTW TheAdubbz",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/tough-as-nails",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 2,
+              "name": "adventure_rpg",
+              "shortName": "rpg",
+              "nesting": 0
+            },
+            {
+              "id": 24,
+              "name": "mc_food",
+              "shortName": "food",
+              "nesting": 0
+            }
+          ],
+          "picture": 800496,
+          "pictures": [],
+          "lanName": "tough-as-nails",
+          "version": {
+            "id": 2710969,
+            "name": "1.12.2-3.1.0.141-universal",
+            "updateDate": 1557770400000,
+            "type": "beta",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "594c723d9708616b0f69bec1fb2d884d9ade7444",
+              "size": 357504,
+              "path": "mods/ToughAsNails-1.12.2-3.1.0.141-universal.jar",
+              "url": "/mods/246391/2710969/ToughAsNails-1.12.2-3.1.0.141-universal.jar"
+            },
+            "installed": 385776,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 3383,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 2,
+              "name": "Fabric API",
+              "gameEntityId": 306612,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 6285,
+              "name": "GlitchCore",
+              "gameEntityId": 955399,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1771880400000,
+          "update": 1771880400000,
+          "downloadALL": 3396938,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 235729,
+          "name": "Realistic Torches",
+          "author": "Chaosyr",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/realistic-torches",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 27,
+              "name": "world_structures",
+              "shortName": "structures",
+              "nesting": 0
+            },
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 5,
+              "name": "technology",
+              "shortName": "technology",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 800469,
+          "pictures": [
+            31424,
+            31428
+          ],
+          "lanName": "realistic-torches",
+          "version": {
+            "id": 3152820,
+            "name": "1.12.2-2.1.2",
+            "updateDate": 1609264800000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "03100cc1b2a29013f815bce0fc5e7baa23fdbeff",
+              "size": 75064,
+              "path": "mods/RealisticTorches-1.12.2-2.1.2.jar",
+              "url": "/mods/235729/3152820/RealisticTorches-1.12.2-2.1.2.jar"
+            },
+            "installed": 67797,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 5264,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1725483600000,
+          "update": 1725483600000,
+          "downloadALL": 1275683,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 277616,
+          "name": "Spice of Life Carrot Edition",
+          "author": "MrTrollNugNug Talonos2",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            },
+            {
+              "id": 24,
+              "name": "mc_food",
+              "shortName": "food",
+              "nesting": 0
+            },
+            {
+              "id": 10,
+              "name": "technology_farming",
+              "shortName": "farming",
+              "nesting": 0
+            }
+          ],
+          "picture": 787857,
+          "pictures": [
+            68478,
+            68480,
+            68479
+          ],
+          "lanName": "spice-of-life-carrot-edition",
+          "version": {
+            "id": 2959847,
+            "name": "solcarrot-1.12.2-1.8.4",
+            "updateDate": 1589762175000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "3197a040e5a090ea12a2e2095a8cca0e6f650c13",
+              "size": 641217,
+              "path": "mods/solcarrot-1.12.2-1.8.4.jar",
+              "url": "/mods/277616/2959847/solcarrot-1.12.2-1.8.4.jar"
+            },
+            "installed": 19376,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 127,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 70,
+            "name": "26.2"
+          },
+          "updated": 1781816400000,
+          "update": 1781816400000,
+          "downloadALL": 207148,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 276837,
+          "name": "First Aid",
+          "author": "ichttt",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/first-aid",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            }
+          ],
+          "picture": 844355,
+          "pictures": [
+            20575,
+            51142,
+            20569
+          ],
+          "lanName": "first-aid",
+          "version": {
+            "id": 4414252,
+            "name": "firstaid-1.6.22",
+            "updateDate": 1677460680000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "d9927b8c24def4b32e1ca81f3b8caf379391e34e",
+              "size": 493904,
+              "path": "mods/firstaid-1.6.22.jar",
+              "url": "/mods/276837/4414252/firstaid-1.6.22.jar"
+            },
+            "installed": 128589,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 813,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1720904400000,
+          "update": 1720904400000,
+          "downloadALL": 1808810,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 248787,
+          "name": "AppleSkin",
+          "author": "squeek502",
+          "uuid": "dfb0b67e-cae4-11ec-b2ce-f02f74958c02",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/appleskin",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 6,
+              "name": "map_information",
+              "shortName": "maps",
+              "nesting": 0
+            },
+            {
+              "id": 24,
+              "name": "mc_food",
+              "shortName": "food",
+              "nesting": 0
+            }
+          ],
+          "picture": 821134,
+          "pictures": [],
+          "lanName": "appleskin",
+          "version": {
+            "id": 2987247,
+            "name": "mc1.12-1.0.14",
+            "updateDate": 1592965624000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              },
+              {
+                "id": 2,
+                "name": "1.12.1"
+              },
+              {
+                "id": 3,
+                "name": "1.12"
+              }
+            ],
+            "metadata": {
+              "sha1": "d798af79de48be0f00c772943e5ec5a2fb5659fa",
+              "size": 33683,
+              "path": "mods/AppleSkin-mc1.12-1.0.14.jar",
+              "url": "/mods/248787/2987247/AppleSkin-mc1.12-1.0.14.jar"
+            },
+            "installed": 1450209,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 7231,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 70,
+            "name": "26.2"
+          },
+          "updated": 1781730000000,
+          "update": 1781730000000,
+          "downloadALL": 16944638,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 224472,
+          "name": "AppleCore",
+          "author": "squeek502 Girafi",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/applecore",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            },
+            {
+              "id": 24,
+              "name": "mc_food",
+              "shortName": "food",
+              "nesting": 0
+            }
+          ],
+          "picture": 800427,
+          "pictures": [],
+          "lanName": "applecore",
+          "version": {
+            "id": 2969118,
+            "name": "mc1.12.2-3.4.0",
+            "updateDate": 1590873501000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "a6a57a76936a559088e9282aacde6f761d7e0b39",
+              "size": 89615,
+              "path": "mods/AppleCore-mc1.12.2-3.4.0.jar",
+              "url": "/mods/224472/2969118/AppleCore-mc1.12.2-3.4.0.jar"
+            },
+            "installed": 100630,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 162,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1590786000000,
+          "update": 1590786000000,
+          "downloadALL": 179907,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -526758349370599,
+          "name": "jei_1.12.2-4.16.1.1012",
+          "favorite": false,
+          "version": {
+            "id": -526758350848600,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "a6d04d7e161d9af5c0e7077f649e30815927f14a",
+              "size": 649218,
+              "path": "mods/jei_1.12.2-4.16.1.1012.jar",
+              "url": "mods/jei_1.12.2-4.16.1.1012.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -526758351173099,
+          "name": "mcjtytools-0.0.21",
+          "favorite": false,
+          "version": {
+            "id": -526758351461700,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "f08f9b1be73b1d6f9c9fe80473f66edc4407675e",
+              "size": 62381,
+              "path": "mods/memory_repo/com/github/mcjty/mcjtytools/0.0.21/mcjtytools-0.0.21.jar",
+              "url": "mods/memory_repo/com/github/mcjty/mcjtytools/0.0.21/mcjtytools-0.0.21.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 237102,
+          "name": "FTB Utilities (Forge)",
+          "author": "FTB LatvianModder",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/ftb-utilities-forge",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            },
+            {
+              "id": 6,
+              "name": "map_information",
+              "shortName": "maps",
+              "nesting": 0
+            },
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 800380,
+          "pictures": [],
+          "lanName": "ftb-utilities-forge",
+          "version": {
+            "id": 3157548,
+            "name": "FTBUtilities-5.4.1.131",
+            "updateDate": 1609708669000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "d1f6545ac58ad895f2c8bcd0d4963d92f14b1938",
+              "size": 425832,
+              "path": "mods/FTBUtilities-5.4.1.131.jar",
+              "url": "/mods/237102/3157548/FTBUtilities-5.4.1.131.jar"
+            },
+            "installed": 250626,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 299,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1609621200000,
+          "update": 1609621200000,
+          "downloadALL": 343057,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 237167,
+          "name": "FTB Library (Forge) (Legacy)",
+          "author": "FTB jaredlll08 LatvianModder",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/ftb-library-legacy-forge",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            },
+            {
+              "id": 6,
+              "name": "map_information",
+              "shortName": "maps",
+              "nesting": 0
+            },
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 162159,
+          "pictures": [],
+          "lanName": "ftb-library",
+          "version": {
+            "id": 2985811,
+            "name": "FTBLib-5.4.7.2",
+            "updateDate": 1592786674000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "7c20cd223bc2334edf153e074f35acdbcab3c976",
+              "size": 934370,
+              "path": "mods/FTBLib-5.4.7.2.jar",
+              "url": "/mods/237167/2985811/FTBLib-5.4.7.2.jar"
+            },
+            "installed": 241851,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 232,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1592786640000,
+          "update": 1592786640000,
+          "downloadALL": 298647,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 509041,
+          "name": "Epic Knights Shields, Armor and Weapons [FabricForgeNeoForge]",
+          "author": "magistu_",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/epic-knights-armor-and-weapons",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            }
+          ],
+          "picture": 1266985,
+          "pictures": [
+            335777,
+            246708,
+            288172,
+            241444,
+            498470,
+            241443,
+            246709,
+            241442,
+            250108,
+            498471,
+            251803,
+            251804,
+            250107,
+            498473,
+            288171,
+            498472
+          ],
+          "lanName": "epic-knights-armor-and-weapons",
+          "version": {
+            "id": 3910300,
+            "name": "[1.12.2]-Epic-Knights-Armor-and-Weapons-6.2v(uncomplete)",
+            "updateDate": 1659298000000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              },
+              {
+                "id": 2,
+                "name": "1.12.1"
+              },
+              {
+                "id": 3,
+                "name": "1.12"
+              }
+            ],
+            "metadata": {
+              "sha1": "2e7b2d9fa1c072fce4b595a5b4d1e93c03a852e6",
+              "size": 1592689,
+              "path": "mods/[1.12.2]-Epic-Knights-Armor-and-Weapons-6.2v(uncomplete).jar",
+              "url": "/mods/509041/3910300/%5B1.12.2%5D-Epic-Knights-Armor-and-Weapons-6.2v(uncomplete).jar"
+            },
+            "installed": 382148,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 332,
+              "name": "Cloth Config API (FabricForgeNeoForge)",
+              "gameEntityId": 348521,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 422,
+              "name": "Architectury API",
+              "gameEntityId": 419699,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1774299600000,
+          "update": 1774299600000,
+          "downloadALL": 2619025,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 289347,
+          "name": "Familiar Fauna",
+          "author": "Glitchfiend TDWP_FTW",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/familiar-fauna",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            }
+          ],
+          "picture": 844607,
+          "pictures": [
+            85261,
+            85266,
+            85262,
+            85263,
+            85264,
+            85267
+          ],
+          "lanName": "familiar-fauna",
+          "version": {
+            "id": 2644656,
+            "name": "1.12.2-1.0.11",
+            "updateDate": 1544055317000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "e38af1ced9f5ce3f39e87b8cf79241849b52945d",
+              "size": 381455,
+              "path": "mods/FamiliarFauna-1.12.2-1.0.11.jar",
+              "url": "/mods/289347/2644656/FamiliarFauna-1.12.2-1.0.11.jar"
+            },
+            "installed": 123073,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 461,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1544043600000,
+          "update": 1544043600000,
+          "downloadALL": 164460,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 235261,
+          "name": "Just a Few Fish",
+          "author": "Tmtravlr",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/just-a-few-fish",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            },
+            {
+              "id": 10,
+              "name": "technology_farming",
+              "shortName": "farming",
+              "nesting": 0
+            }
+          ],
+          "picture": 11928,
+          "pictures": [],
+          "lanName": "just-a-few-fish",
+          "version": {
+            "id": 2448283,
+            "name": "JustAFewFish-1.7_for_1.12",
+            "updateDate": 1499640818000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              },
+              {
+                "id": 2,
+                "name": "1.12.1"
+              },
+              {
+                "id": 3,
+                "name": "1.12"
+              }
+            ],
+            "metadata": {
+              "sha1": "b843ae27c83073f02664488a432625c5394ae610",
+              "size": 238863,
+              "path": "mods/JustAFewFish-1.7_for_1.12.jar",
+              "url": "/mods/235261/2448283/JustAFewFish-1.7_for_1.12.jar"
+            },
+            "installed": 12654,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 108,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1543037220000,
+          "update": 1543037220000,
+          "downloadALL": 99458,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 340583,
+          "name": "YUNG's Better Caves (ForgeNeoForge)",
+          "author": "yungnickyoung",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 27,
+              "name": "world_structures",
+              "shortName": "structures",
+              "nesting": 0
+            },
+            {
+              "id": 14,
+              "name": "world_biomes",
+              "shortName": "biomes",
+              "nesting": 0
+            },
+            {
+              "id": 2,
+              "name": "adventure_rpg",
+              "shortName": "rpg",
+              "nesting": 0
+            },
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 1219834,
+          "pictures": [
+            154360,
+            154346,
+            154350,
+            154361,
+            154349,
+            154353,
+            154344,
+            154354,
+            154348,
+            154356,
+            154352,
+            154362,
+            154347,
+            154345,
+            154357,
+            154355,
+            154358,
+            154359,
+            154351,
+            154363
+          ],
+          "lanName": "yungs-better-caves",
+          "version": {
+            "id": 3003242,
+            "name": "bettercaves-1.12.2-2.0.4",
+            "updateDate": 1594538576000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              },
+              {
+                "id": 3,
+                "name": "1.12"
+              }
+            ],
+            "metadata": {
+              "sha1": "1924c9881c84373c4f887ad87b1089466b291d3f",
+              "size": 193604,
+              "path": "mods/bettercaves-1.12.2-2.0.4.jar",
+              "url": "/mods/340583/3003242/bettercaves-1.12.2-2.0.4.jar"
+            },
+            "installed": 223371,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 3113,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 1679,
+              "name": "YUNG's API (ForgeNeoForge)",
+              "gameEntityId": 421850,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 69,
+            "name": "26.1.2"
+          },
+          "updated": 1785099600000,
+          "update": 1785099600000,
+          "downloadALL": 1998689,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 225957,
+          "name": "Hardcore Darkness",
+          "author": "lumien231",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/hardcore-darkness",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 9328,
+          "pictures": [],
+          "lanName": "hardcore-darkness",
+          "version": {
+            "id": 2499443,
+            "name": "MC1.12.2-2.0",
+            "updateDate": 1510434000000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              },
+              {
+                "id": 2,
+                "name": "1.12.1"
+              },
+              {
+                "id": 3,
+                "name": "1.12"
+              }
+            ],
+            "metadata": {
+              "sha1": "1bced77c70bbc1442412c397e1ca108627bda282",
+              "size": 32327,
+              "path": "mods/HardcoreDarkness-MC1.12.2-2.0.jar",
+              "url": "/mods/225957/2499443/HardcoreDarkness-MC1.12.2-2.0.jar"
+            },
+            "installed": 186881,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 323,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1510440540000,
+          "update": 1510440540000,
+          "downloadALL": 225996,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 227795,
+          "name": "Antique Atlas",
+          "author": "Hunternif coolAlias Kenkron",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/antique-atlas",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 6,
+              "name": "map_information",
+              "shortName": "maps",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 1182295,
+          "pictures": [
+            23253,
+            23248,
+            23258
+          ],
+          "lanName": "antique-atlas",
+          "version": {
+            "id": 2823030,
+            "name": "antiqueatlas-1.12.2-4.6.3",
+            "updateDate": 1572976800000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "9531e665ad5d5aa7a84890147dddb6eaf86a5752",
+              "size": 1239580,
+              "path": "mods/antiqueatlas-1.12.2-4.6.3.jar",
+              "url": "/mods/227795/2823030/antiqueatlas-1.12.2-4.6.3.jar"
+            },
+            "installed": 238256,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 857,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1754341200000,
+          "update": 1754341200000,
+          "downloadALL": 1025290,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 419286,
+          "name": "MixinBooter",
+          "author": "rongmario",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/mixin-booter",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            },
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 800566,
+          "pictures": [],
+          "lanName": "mixin-booter",
+          "version": {
+            "id": 8525356,
+            "name": "!mixinbooter-11.12",
+            "updateDate": 1785225660000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              },
+              {
+                "id": 2,
+                "name": "1.12.1"
+              },
+              {
+                "id": 3,
+                "name": "1.12"
+              },
+              {
+                "id": 4,
+                "name": "1.11.2"
+              },
+              {
+                "id": 5,
+                "name": "1.11"
+              },
+              {
+                "id": 6,
+                "name": "1.10.2"
+              },
+              {
+                "id": 20,
+                "name": "1.10"
+              },
+              {
+                "id": 7,
+                "name": "1.9.4"
+              },
+              {
+                "id": 8,
+                "name": "1.9"
+              },
+              {
+                "id": 9,
+                "name": "1.8.9"
+              },
+              {
+                "id": 10,
+                "name": "1.8.8"
+              },
+              {
+                "id": 11,
+                "name": "1.8"
+              }
+            ],
+            "metadata": {
+              "sha1": "eac3d5e0200093c5c3b1cc7a61e4046b34e07a18",
+              "size": 2466577,
+              "path": "mods/!mixinbooter-11.12.jar",
+              "url": "/mods/419286/8525356/!mixinbooter-11.12.jar"
+            },
+            "installed": 700,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1785186000000,
+          "update": 1785186000000,
+          "downloadALL": 535458,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 224535,
+          "name": "IvToolkit",
+          "author": "Ivorforce",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/ivtoolkit",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 9123,
+          "pictures": [],
+          "lanName": "ivtoolkit",
+          "version": {
+            "id": 2443253,
+            "name": "1.3.3-1.12",
+            "updateDate": 1498683600000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              },
+              {
+                "id": 2,
+                "name": "1.12.1"
+              },
+              {
+                "id": 3,
+                "name": "1.12"
+              }
+            ],
+            "metadata": {
+              "sha1": "522e60b48721b558f6dea1fdfa2b235162366649",
+              "size": 455763,
+              "path": "mods/IvToolkit-1.3.3-1.12.jar",
+              "url": "/mods/224535/2443253/IvToolkit-1.3.3-1.12.jar"
+            },
+            "installed": 115836,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 135,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1498694700000,
+          "update": 1498694700000,
+          "downloadALL": 141143,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 307301,
+          "name": "DesirePaths",
+          "author": "Corosus",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/desirepaths",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 802473,
+          "pictures": [],
+          "lanName": "desirepaths",
+          "version": {
+            "id": 2679314,
+            "name": "desirepaths-1.12.1-1.2.8",
+            "updateDate": 1550958982000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              },
+              {
+                "id": 2,
+                "name": "1.12.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "d7707bd37817e1bb9738ef12893cb26a5ce106e1",
+              "size": 46138,
+              "path": "mods/desirepaths-1.12.1-1.2.8.jar",
+              "url": "/mods/307301/2679314/desirepaths-1.12.1-1.2.8.jar"
+            },
+            "installed": 6885,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 66,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1550869200000,
+          "update": 1550869200000,
+          "downloadALL": 9617,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 237749,
+          "name": "CoroUtil",
+          "author": "Corosus",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/coroutil",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 821166,
+          "pictures": [],
+          "lanName": "coroutil",
+          "version": {
+            "id": 2902920,
+            "name": "coroutil-1.12.1-1.2.37",
+            "updateDate": 1584295200000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              },
+              {
+                "id": 2,
+                "name": "1.12.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "90392789dfbcadf440415a775d3ec81326deee2f",
+              "size": 2327451,
+              "path": "mods/coroutil-1.12.1-1.2.37.jar",
+              "url": "/mods/237749/2902920/coroutil-1.12.1-1.2.37.jar"
+            },
+            "installed": 505236,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 309,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 63,
+            "name": "1.21.8"
+          },
+          "updated": 1781125200000,
+          "update": 1781125200000,
+          "downloadALL": 1715561,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 246760,
+          "name": "Better With Mods",
+          "author": "BeetoGuy primetoxinz",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/bwm-suite",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 30,
+              "name": "technology_processing",
+              "shortName": "processing",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 916260,
+          "pictures": [],
+          "lanName": "bwm-suite",
+          "version": {
+            "id": 5702821,
+            "name": "1.12-3.0.0",
+            "updateDate": 1725763345000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "46052c39e9510f4c570ad804ac75906c1f6a008a",
+              "size": 5206101,
+              "path": "mods/BetterWithMods-1.12-3.0.0.jar",
+              "url": "/mods/246760/5702821/BetterWithMods-1.12-3.0.0.jar"
+            },
+            "installed": 4509,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 43,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1725742800000,
+          "update": 1725742800000,
+          "downloadALL": 111570,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 220954,
+          "name": "ModTweaker",
+          "author": "jaredlll08 jaredlll08",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/modtweaker",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            },
+            {
+              "id": 69,
+              "name": "crafttweaker",
+              "shortName": "crafttweaker",
+              "nesting": 0
+            }
+          ],
+          "picture": 844203,
+          "pictures": [],
+          "lanName": "modtweaker",
+          "version": {
+            "id": 3840577,
+            "name": "modtweaker-4.0.20.11",
+            "updateDate": 1655679226000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "f0bdbf6f4257e392e59023289998aaa8c295df47",
+              "size": 493285,
+              "path": "mods/modtweaker-4.0.20.11.jar",
+              "url": "/mods/220954/3840577/modtweaker-4.0.20.11.jar"
+            },
+            "installed": 12831,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 100,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1655672400000,
+          "update": 1655672400000,
+          "downloadALL": 72511,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 253211,
+          "name": "MTLib",
+          "author": "jaredlll08",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/mtlib",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            },
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            },
+            {
+              "id": 69,
+              "name": "crafttweaker",
+              "shortName": "crafttweaker",
+              "nesting": 0
+            }
+          ],
+          "picture": 11188,
+          "pictures": [],
+          "lanName": "mtlib",
+          "version": {
+            "id": 3308160,
+            "name": "3.0.7",
+            "updateDate": 1620867747000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "7d2b9e97518dca1e9326fd347ba1eb93dec35999",
+              "size": 30009,
+              "path": "mods/MTLib-3.0.7.jar",
+              "url": "/mods/253211/3308160/MTLib-3.0.7.jar"
+            },
+            "installed": 47057,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 72,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 208,
+              "name": "CraftTweaker",
+              "gameEntityId": 239197,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1620867720000,
+          "update": 1620867720000,
+          "downloadALL": 61610,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 297361,
+          "name": "Climatic Biomes",
+          "author": "BlackJar72",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/climatic-biomes",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 14,
+              "name": "world_biomes",
+              "shortName": "biomes",
+              "nesting": 0
+            },
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 1344171,
+          "pictures": [],
+          "lanName": "climatic-biomes",
+          "version": {
+            "id": 7676664,
+            "name": "3.0.1-MC1.12.2",
+            "updateDate": 1772026022000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "d6a881ccb2024777b4160861ea969d02b7e400da",
+              "size": 597719,
+              "path": "mods/ClimaticBiomes-3.0.1-MC1.12.2.jar",
+              "url": "/mods/297361/7676664/ClimaticBiomes-3.0.1-MC1.12.2.jar"
+            },
+            "installed": 102,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 9,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 23,
+            "name": "1.14.4"
+          },
+          "updated": 1771966800000,
+          "update": 1771966800000,
+          "downloadALL": 7204,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 309353,
+          "name": "Dynamic Trees Compatibility for Climatic Biomes",
+          "author": "BlackJar72",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-compatibility-for-climatic-biomes",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            },
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 62804,
+          "pictures": [],
+          "lanName": "dynamic-trees-compatibility-for-climatic-biomes",
+          "version": {
+            "id": 2768647,
+            "name": "CB-DTCompat-1.4.0-MC1.12.2",
+            "updateDate": 1566496800000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "5603c05c50c25658ebf7343f826d32b368172a30",
+              "size": 223570,
+              "path": "mods/CB-DTCompat-1.4.0-MC1.12.2.jar",
+              "url": "/mods/309353/2768647/CB-DTCompat-1.4.0-MC1.12.2.jar"
+            },
+            "installed": 1643,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 6,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 1359,
+              "name": "Climatic Biomes",
+              "gameEntityId": 297361,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 879,
+              "name": "Dynamic Trees",
+              "gameEntityId": 252818,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1566572340000,
+          "update": 1566572340000,
+          "downloadALL": 3718,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "no_active",
+          "id": 238551,
+          "name": "GraveStone Mod",
+          "author": "EuhDawson Bommelmuetze24 Junanas",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/gravestone-mod",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            }
+          ],
+          "picture": 844180,
+          "pictures": [],
+          "lanName": "gravestone-mod",
+          "version": {
+            "id": 2744766,
+            "name": "gravestone-1.10.3",
+            "updateDate": 1563559200000,
+            "type": "beta",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "b2cc9a25054fd6878ba242a6080a2866140bbeb0",
+              "size": 129433,
+              "path": "mods/gravestone-1.10.3.jar",
+              "url": "/mods/238551/2744766/gravestone-1.10.3.jar"
+            },
+            "installed": 1877029,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 28702,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 859,
+              "name": "Jade 🔍",
+              "gameEntityId": 324717,
+              "dependencyType": "optional"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 70,
+            "name": "26.2"
+          },
+          "updated": 1785358800000,
+          "update": 1785358800000,
+          "downloadALL": 23048113,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 242830,
+          "name": "Exotic Birds",
+          "author": "Pavoreality",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/exotic-birds",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 844905,
+          "pictures": [
+            28740,
+            28783,
+            28799,
+            28788,
+            28792,
+            28744,
+            28760,
+            28759,
+            28768,
+            28779,
+            28781,
+            28773,
+            28737,
+            28796,
+            28751,
+            28755
+          ],
+          "lanName": "exotic-birds",
+          "version": {
+            "id": 2987034,
+            "name": "1.12.2-3.2.0",
+            "updateDate": 1592955949000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "23e2f2ade24b2e259374937d074ab062aca02bef",
+              "size": 2349948,
+              "path": "mods/Exotic+Birds+1.12.2-3.2.0.jar",
+              "url": "/mods/242830/2987034/Exotic+Birds+1.12.2-3.2.0.jar"
+            },
+            "installed": 49232,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 1835,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1692046800000,
+          "update": 1692046800000,
+          "downloadALL": 743027,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 300297,
+          "name": "Project Vibrant Journeys",
+          "author": "solis_nova123",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/project-vibrant-journeys",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 844465,
+          "pictures": [
+            849537,
+            849542,
+            345091,
+            849546,
+            849535,
+            849544,
+            849543,
+            849545,
+            849538,
+            849539,
+            877148,
+            345093,
+            849540,
+            849541,
+            345090
+          ],
+          "lanName": "project-vibrant-journeys",
+          "version": {
+            "id": 2775566,
+            "name": "1.12.2-1.6.4",
+            "updateDate": 1567188000000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "bc36f9cec993d276e209f35da199de565fc38c68",
+              "size": 1777665,
+              "path": "mods/ProjectVibrantJourneys-1.12.2-1.6.4.jar",
+              "url": "/mods/300297/2775566/ProjectVibrantJourneys-1.12.2-1.6.4.jar"
+            },
+            "installed": 19411,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 145,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1780520400000,
+          "update": 1780520400000,
+          "downloadALL": 266485,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1554236,
+          "name": "Citadel (Legacy)",
+          "author": "Astryxion",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/citadel-legacy",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 1427977,
+          "pictures": [
+            1428105
+          ],
+          "lanName": "citadel-legacy",
+          "version": {
+            "id": 8155892,
+            "name": "citadel-1.12.2-1.1.0",
+            "updateDate": 1779911052000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "e5af745a7879992f7e3ecdde51c0d32d0290fb3d",
+              "size": 470001,
+              "path": "mods/citadel-1.12.2-1.1.0.jar",
+              "url": "/mods/1554236/8155892/citadel-1.12.2-1.1.0.jar"
+            },
+            "installed": 6329,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1779829200000,
+          "update": 1779829200000,
+          "downloadALL": 6394,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1554241,
+          "name": "Alex's Mobs (Legacy)",
+          "author": "Astryxion",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/alexs-mobs-legacy",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            },
+            {
+              "id": 24,
+              "name": "mc_food",
+              "shortName": "food",
+              "nesting": 0
+            },
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 1427975,
+          "pictures": [
+            1428096,
+            1428099,
+            1428102,
+            1428094,
+            1428095,
+            1428103,
+            1428104,
+            1428100,
+            1428098,
+            1428101
+          ],
+          "lanName": "alexs-mobs-legacy",
+          "version": {
+            "id": 8167821,
+            "name": "alexsmobs-1.12.2-1.5.0",
+            "updateDate": 1780114212000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "06e360d2e36c97b4eef9f79ab98ca058a5d4d00d",
+              "size": 20890430,
+              "path": "mods/alexsmobs-1.12.2-1.5.0.jar",
+              "url": "/mods/1554241/8167821/alexsmobs-1.12.2-1.5.0.jar"
+            },
+            "installed": 4365,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 19205,
+              "name": "Citadel (Legacy)",
+              "gameEntityId": 1554236,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1780088400000,
+          "update": 1780088400000,
+          "downloadALL": 4495,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 233019,
+          "name": "AI Improvements",
+          "author": "darkguardsman Kolatra dmodoomsirius BuiltBrokenModding",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/ai-improvements",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            }
+          ],
+          "picture": 821171,
+          "pictures": [],
+          "lanName": "ai-improvements",
+          "version": {
+            "id": 2450734,
+            "name": "1.12-0.0.1b3",
+            "updateDate": 1499979600000,
+            "type": "beta",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              },
+              {
+                "id": 2,
+                "name": "1.12.1"
+              },
+              {
+                "id": 3,
+                "name": "1.12"
+              }
+            ],
+            "metadata": {
+              "sha1": "ef4b64cd4fc10522ead1f659b81e471af455c3fe",
+              "size": 7266,
+              "path": "mods/AIImprovements-1.12-0.0.1b3.jar",
+              "url": "/mods/233019/2450734/AIImprovements-1.12-0.0.1b3.jar"
+            },
+            "installed": 98205,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 403,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 70,
+            "name": "26.2"
+          },
+          "updated": 1775336400000,
+          "update": 1775336400000,
+          "downloadALL": 513589,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 318255,
+          "name": "Phosphor (Forge)",
+          "author": "jellysquid3 GildedGames",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/phosphor-forge",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            },
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            },
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 844391,
+          "pictures": [],
+          "lanName": "phosphor-forge",
+          "version": {
+            "id": 2919497,
+            "name": "phosphor-forge-mc1.12.2-0.2.7-universal",
+            "updateDate": 1585809034000,
+            "type": "beta",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "1c75738ecd4bc5f7021b2b23ea04602aac3d16ec",
+              "size": 920264,
+              "path": "mods/phosphor-forge-mc1.12.2-0.2.7-universal.jar",
+              "url": "/mods/318255/2919497/phosphor-forge-mc1.12.2-0.2.7-universal.jar"
+            },
+            "installed": 73643,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 612,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 26,
+            "name": "1.15.2"
+          },
+          "updated": 1585861200000,
+          "update": 1585861200000,
+          "downloadALL": 292878,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 739808,
+          "name": "Phosphor Crash Fix",
+          "author": "elephant_1214",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/phosphorcrashfix",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            },
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            }
+          ],
+          "picture": 801343,
+          "pictures": [],
+          "lanName": "phosphorcrashfix",
+          "version": {
+            "id": 4183001,
+            "name": "1.12.2-1.0.0",
+            "updateDate": 1671218515000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "b5b17501af82828e106617b6f1694088f426494b",
+              "size": 81988,
+              "path": "mods/PhosphorCrashFix-1.12.2-1.0.0.jar",
+              "url": "/mods/739808/4183001/PhosphorCrashFix-1.12.2-1.0.0.jar"
+            },
+            "installed": 22221,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1671138000000,
+          "update": 1671138000000,
+          "downloadALL": 21326,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "no_active",
+          "id": -181618826067300,
+          "name": "MedievalCore-0.33.0",
+          "favorite": false,
+          "version": {
+            "id": -181618840977500,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "8ecd8759a7790ba81e41513656cad651b80e5553",
+              "size": 778429,
+              "path": "mods/MedievalCore-0.33.0.jar",
+              "url": "mods/MedievalCore-0.33.0.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 225608,
+          "name": "WorldEdit",
+          "author": "sk89q wizjany",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/worldedit",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            },
+            {
+              "id": 6,
+              "name": "map_information",
+              "shortName": "maps",
+              "nesting": 0
+            },
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 844211,
+          "pictures": [
+            19560
+          ],
+          "lanName": "worldedit",
+          "version": {
+            "id": 2941712,
+            "name": "worldedit-forge-mc1.12.2-6.1.10-dist",
+            "updateDate": 1587957313000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "17314bdab33678478af060d2156338ee34db8a09",
+              "size": 1479535,
+              "path": "mods/worldedit-forge-mc1.12.2-6.1.10-dist.jar",
+              "url": "/mods/225608/2941712/worldedit-forge-mc1.12.2-6.1.10-dist.jar"
+            },
+            "installed": 1390310,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 16129,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 70,
+            "name": "26.2"
+          },
+          "updated": 1781730000000,
+          "update": 1781730000000,
+          "downloadALL": 14346873,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 898104,
+          "name": "Carbon Config",
+          "author": "Speiger Speiger MedurisDev",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/carbon-config",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            },
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 801167,
+          "pictures": [
+            517552,
+            517549,
+            562452,
+            562451,
+            517551,
+            517550,
+            517553
+          ],
+          "lanName": "carbon-config",
+          "version": {
+            "id": 8411664,
+            "name": "1.12.2-2.0.2.1",
+            "updateDate": 1783767114000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "534c42c2b3f8c4b2109d85d4951959ed22496584",
+              "size": 1378661,
+              "path": "mods/CarbonConfig-1.12.2-2.0.2.1.jar",
+              "url": "/mods/898104/8411664/CarbonConfig-1.12.2-2.0.2.1.jar"
+            },
+            "installed": 555,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 67,
+            "name": "26.1"
+          },
+          "updated": 1779224400000,
+          "update": 1779224400000,
+          "downloadALL": 73889,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 267193,
+          "name": "Chunk-Pregenerator",
+          "author": "Speiger",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 17,
+              "name": "world_dimensions",
+              "shortName": "dimensions",
+              "nesting": 0
+            },
+            {
+              "id": 27,
+              "name": "world_structures",
+              "shortName": "structures",
+              "nesting": 0
+            },
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            },
+            {
+              "id": 6,
+              "name": "map_information",
+              "shortName": "maps",
+              "nesting": 0
+            }
+          ],
+          "picture": 800430,
+          "pictures": [],
+          "lanName": "chunkpregenerator",
+          "version": {
+            "id": 7884969,
+            "name": "Chunk-Pregenerator-1.12.2-4.4.9.2",
+            "updateDate": 1775483470000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "5198a93c917043715af13a299aeed175ddf5398b",
+              "size": 802011,
+              "path": "mods/Chunk-Pregenerator-1.12.2-4.4.9.2.jar",
+              "url": "/mods/267193/7884969/Chunk-Pregenerator-1.12.2-4.4.9.2.jar"
+            },
+            "installed": 1591,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 304,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 7142,
+              "name": "Carbon Config",
+              "gameEntityId": 898104,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1782248400000,
+          "update": 1782248400000,
+          "downloadALL": 339118,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "no_active",
+          "id": -208464331204300,
+          "name": "MedievalCore-0.35.0",
+          "favorite": false,
+          "version": {
+            "id": -208464332892500,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "df65415bb302ae415d7b2e0737b1454a630f2de3",
+              "size": 780951,
+              "path": "mods/MedievalCore-0.35.0.jar",
+              "url": "mods/MedievalCore-0.35.0.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "no_active",
+          "id": -471216463180,
+          "name": "MedievalCore-0.36.0",
+          "favorite": false,
+          "version": {
+            "id": -471216463181,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "513ea706ef9545859fffe7e944b53cf8dc1e62fc",
+              "size": 815850,
+              "path": "mods/MedievalCore-0.36.0.jar",
+              "url": "mods/MedievalCore-0.36.0.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "no_active",
+          "id": -486317477107,
+          "name": "MedievalCore-0.37.0",
+          "favorite": false,
+          "version": {
+            "id": -486317477108,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "4e0977fa3ef77b0cbe367f05fcfa98a1117b0dc6",
+              "size": 816423,
+              "path": "mods/MedievalCore-0.37.0.jar",
+              "url": "mods/MedievalCore-0.37.0.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "no_active",
+          "id": -167290182536,
+          "name": "MedievalCore-0.38.0",
+          "favorite": false,
+          "version": {
+            "id": -167290182537,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "34af5dea388e082e0338e6e86503983a87390d1d",
+              "size": 821043,
+              "path": "mods/MedievalCore-0.38.0.jar",
+              "url": "mods/MedievalCore-0.38.0.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "no_active",
+          "id": -704317086841,
+          "name": "MedievalCore-0.39.0",
+          "favorite": false,
+          "version": {
+            "id": -704317086842,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "e507429e922fa619edef7bf1a703e158b6aae8e6",
+              "size": 835899,
+              "path": "mods/MedievalCore-0.39.0.jar",
+              "url": "mods/MedievalCore-0.39.0.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "no_active",
+          "id": -167918247217,
+          "name": "MedievalCore-0.40.0",
+          "favorite": false,
+          "version": {
+            "id": -167918247218,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "86185e4243376a25ded58a4922d34f1edccfd381",
+              "size": 897570,
+              "path": "mods/MedievalCore-0.40.0.jar",
+              "url": "mods/MedievalCore-0.40.0.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "no_active",
+          "id": -44259936302100,
+          "name": "MedievalCore-0.43.1",
+          "favorite": false,
+          "version": {
+            "id": -44259937532500,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "02462a11eedb5a7e7958a4c08371bd31ef083cee",
+              "size": 931758,
+              "path": "mods/MedievalCore-0.43.1.jar",
+              "url": "mods/MedievalCore-0.43.1.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "no_active",
+          "id": -480286076713,
+          "name": "MedievalCore-0.45.0",
+          "favorite": false,
+          "version": {
+            "id": -480286076714,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "07d34c95b71a58d01b1eb5f46c25e1bc261fe50f",
+              "size": 943624,
+              "path": "mods/MedievalCore-0.45.0.jar",
+              "url": "mods/MedievalCore-0.45.0.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -719553824184,
+          "name": "MedievalCore-0.47.0",
+          "favorite": false,
+          "version": {
+            "id": -719553824185,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "c3cae6ca29eff5f9dfb2ae7d3952e7af65e5e66c",
+              "size": 934037,
+              "path": "mods/MedievalCore-0.47.0.jar",
+              "url": "mods/MedievalCore-0.47.0.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        }
+      ],
+      "resourcePacks": [],
+      "maps": [
+        {
+          "stateGameElement": "active",
+          "id": -184141999989800,
+          "name": "MONDE_SERVEUR",
+          "favorite": false,
+          "version": {
+            "id": -184142000089600,
+            "name": "1.0",
+            "metadata": {
+              "folders": [
+                "MONDE_SERVEUR"
+              ],
+              "size": 0,
+              "path": "saves/MONDE_SERVEUR",
+              "url": "saves/MONDE_SERVEUR"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -184142000095100,
+          "name": "Monde_serveur_RP",
+          "favorite": false,
+          "version": {
+            "id": -184142000107400,
+            "name": "1.0",
+            "metadata": {
+              "folders": [
+                "Monde_serveur_RP"
+              ],
+              "size": 0,
+              "path": "saves/Monde_serveur_RP",
+              "url": "saves/Monde_serveur_RP"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -184142000109700,
+          "name": "MONDE_SERVEUR_RP-",
+          "favorite": false,
+          "version": {
+            "id": -184142000120500,
+            "name": "1.0",
+            "metadata": {
+              "folders": [
+                "MONDE_SERVEUR_RP-"
+              ],
+              "size": 0,
+              "path": "saves/MONDE_SERVEUR_RP-",
+              "url": "saves/MONDE_SERVEUR_RP-"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -184142000122700,
+          "name": "MONDE_TEST",
+          "favorite": false,
+          "version": {
+            "id": -184142000132800,
+            "name": "1.0",
+            "metadata": {
+              "folders": [
+                "MONDE_TEST"
+              ],
+              "size": 0,
+              "path": "saves/MONDE_TEST",
+              "url": "saves/MONDE_TEST"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -184142000134800,
+          "name": "Nouveau monde",
+          "favorite": false,
+          "version": {
+            "id": -184142000146300,
+            "name": "1.0",
+            "metadata": {
+              "folders": [
+                "Nouveau monde"
+              ],
+              "size": 0,
+              "path": "saves/Nouveau monde",
+              "url": "saves/Nouveau monde"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -184142000148400,
+          "name": "Nouveau monde-",
+          "favorite": false,
+          "version": {
+            "id": -184142000158300,
+            "name": "1.0",
+            "metadata": {
+              "folders": [
+                "Nouveau monde-"
+              ],
+              "size": 0,
+              "path": "saves/Nouveau monde-",
+              "url": "saves/Nouveau monde-"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -184142000160200,
+          "name": "Nouveau monde--",
+          "favorite": false,
+          "version": {
+            "id": -184142000169900,
+            "name": "1.0",
+            "metadata": {
+              "folders": [
+                "Nouveau monde--"
+              ],
+              "size": 0,
+              "path": "saves/Nouveau monde--",
+              "url": "saves/Nouveau monde--"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -184142000171700,
+          "name": "Nouveau monde---",
+          "favorite": false,
+          "version": {
+            "id": -184142000181500,
+            "name": "1.0",
+            "metadata": {
+              "folders": [
+                "Nouveau monde---"
+              ],
+              "size": 0,
+              "path": "saves/Nouveau monde---",
+              "url": "saves/Nouveau monde---"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -184142000183400,
+          "name": "Nouveau monde----",
+          "favorite": false,
+          "version": {
+            "id": -184142000193000,
+            "name": "1.0",
+            "metadata": {
+              "folders": [
+                "Nouveau monde----"
+              ],
+              "size": 0,
+              "path": "saves/Nouveau monde----",
+              "url": "saves/Nouveau monde----"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -184142000194900,
+          "name": "Nouveau monde-----",
+          "favorite": false,
+          "version": {
+            "id": -184142000204700,
+            "name": "1.0",
+            "metadata": {
+              "folders": [
+                "Nouveau monde-----"
+              ],
+              "size": 0,
+              "path": "saves/Nouveau monde-----",
+              "url": "saves/Nouveau monde-----"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -184142000206900,
+          "name": "Nouveau monde------",
+          "favorite": false,
+          "version": {
+            "id": -184142000216900,
+            "name": "1.0",
+            "metadata": {
+              "folders": [
+                "Nouveau monde------"
+              ],
+              "size": 0,
+              "path": "saves/Nouveau monde------",
+              "url": "saves/Nouveau monde------"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -184142000219000,
+          "name": "Nouveau monde-------",
+          "favorite": false,
+          "version": {
+            "id": -184142000229000,
+            "name": "1.0",
+            "metadata": {
+              "folders": [
+                "Nouveau monde-------"
+              ],
+              "size": 0,
+              "path": "saves/Nouveau monde-------",
+              "url": "saves/Nouveau monde-------"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -184142000240400,
+          "name": "Nouveau monde--------",
+          "favorite": false,
+          "version": {
+            "id": -184142000251300,
+            "name": "1.0",
+            "metadata": {
+              "folders": [
+                "Nouveau monde--------"
+              ],
+              "size": 0,
+              "path": "saves/Nouveau monde--------",
+              "url": "saves/Nouveau monde--------"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -184142000253900,
+          "name": "Nouveau monde---------",
+          "favorite": false,
+          "version": {
+            "id": -184142000263800,
+            "name": "1.0",
+            "metadata": {
+              "folders": [
+                "Nouveau monde---------"
+              ],
+              "size": 0,
+              "path": "saves/Nouveau monde---------",
+              "url": "saves/Nouveau monde---------"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -184142000266100,
+          "name": "Nouveau monde----------",
+          "favorite": false,
+          "version": {
+            "id": -184142000275900,
+            "name": "1.0",
+            "metadata": {
+              "folders": [
+                "Nouveau monde----------"
+              ],
+              "size": 0,
+              "path": "saves/Nouveau monde----------",
+              "url": "saves/Nouveau monde----------"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -184142000278100,
+          "name": "Nouveau monde-----------",
+          "favorite": false,
+          "version": {
+            "id": -184142000287900,
+            "name": "1.0",
+            "metadata": {
+              "folders": [
+                "Nouveau monde-----------"
+              ],
+              "size": 0,
+              "path": "saves/Nouveau monde-----------",
+              "url": "saves/Nouveau monde-----------"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -184142000290200,
+          "name": "Nouveau monde------------",
+          "favorite": false,
+          "version": {
+            "id": -184142000300000,
+            "name": "1.0",
+            "metadata": {
+              "folders": [
+                "Nouveau monde------------"
+              ],
+              "size": 0,
+              "path": "saves/Nouveau monde------------",
+              "url": "saves/Nouveau monde------------"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -184142000301900,
+          "name": "Nouveau monde-------------",
+          "favorite": false,
+          "version": {
+            "id": -184142000311900,
+            "name": "1.0",
+            "metadata": {
+              "folders": [
+                "Nouveau monde-------------"
+              ],
+              "size": 0,
+              "path": "saves/Nouveau monde-------------",
+              "url": "saves/Nouveau monde-------------"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -184142000314000,
+          "name": "Nouveau monde--------------",
+          "favorite": false,
+          "version": {
+            "id": -184142000323900,
+            "name": "1.0",
+            "metadata": {
+              "folders": [
+                "Nouveau monde--------------"
+              ],
+              "size": 0,
+              "path": "saves/Nouveau monde--------------",
+              "url": "saves/Nouveau monde--------------"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -184142000326100,
+          "name": "Nouveau monde---------------",
+          "favorite": false,
+          "version": {
+            "id": -184142000344500,
+            "name": "1.0",
+            "metadata": {
+              "folders": [
+                "Nouveau monde---------------"
+              ],
+              "size": 0,
+              "path": "saves/Nouveau monde---------------",
+              "url": "saves/Nouveau monde---------------"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -184142000346900,
+          "name": "Nouveau monde----------------",
+          "favorite": false,
+          "version": {
+            "id": -184142000357400,
+            "name": "1.0",
+            "metadata": {
+              "folders": [
+                "Nouveau monde----------------"
+              ],
+              "size": 0,
+              "path": "saves/Nouveau monde----------------",
+              "url": "saves/Nouveau monde----------------"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -184142000359600,
+          "name": "Nouveau monde-----------------",
+          "favorite": false,
+          "version": {
+            "id": -184142000369600,
+            "name": "1.0",
+            "metadata": {
+              "folders": [
+                "Nouveau monde-----------------"
+              ],
+              "size": 0,
+              "path": "saves/Nouveau monde-----------------",
+              "url": "saves/Nouveau monde-----------------"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -184142000371700,
+          "name": "Nouveau monde------------------",
+          "favorite": false,
+          "version": {
+            "id": -184142000381700,
+            "name": "1.0",
+            "metadata": {
+              "folders": [
+                "Nouveau monde------------------"
+              ],
+              "size": 0,
+              "path": "saves/Nouveau monde------------------",
+              "url": "saves/Nouveau monde------------------"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -184142000383700,
+          "name": "Nouveau monde-------------------",
+          "favorite": false,
+          "version": {
+            "id": -184142000393700,
+            "name": "1.0",
+            "metadata": {
+              "folders": [
+                "Nouveau monde-------------------"
+              ],
+              "size": 0,
+              "path": "saves/Nouveau monde-------------------",
+              "url": "saves/Nouveau monde-------------------"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -184142000395600,
+          "name": "RP-medieval",
+          "favorite": false,
+          "version": {
+            "id": -184142000405500,
+            "name": "1.0",
+            "metadata": {
+              "folders": [
+                "RP-medieval"
+              ],
+              "size": 0,
+              "path": "saves/RP-medieval",
+              "url": "saves/RP-medieval"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        }
+      ],
+      "shaderpacks": [],
+      "gameVersionDTO": {
+        "id": 1,
+        "name": "1.12.2"
+      },
+      "minecraftVersionName": {
+        "id": 3000,
+        "name": "14.23.5.2859"
+      },
+      "id": -518622587295501,
+      "name": "1.0",
+      "available": false,
+      "minecraftVersionTypes": [
+        {
+          "id": 1,
+          "name": "forge"
+        }
+      ]
+    },
+    "userInstall": false,
+    "populateStatus": false,
+    "available": false,
+    "parser": false,
+    "totalComments": 0
+  },
+  "source": "local_version_repo",
+  "jar": "1.12.2",
+  "skinVersion": true
+}

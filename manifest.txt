@@ -1,0 +1,65 @@
+V	2026.09.09-56b7bb99
+S	irvine-abilities.tun.ply.gg
+B	https://raw.githubusercontent.com/emile-thiebaut/mod_RPmedieval/main
+F	35d97d1cb83b612c827cbb0f3a700494bf07c8c84aaf2ae8fce0256fda4e3cce	2466577	pack/mods/_mixinbooter-11.12.jar	mods/!mixinbooter-11.12.jar
+F	acbf49a2ace819b775e648c079634fc0a6c8a54cdf1bc2098eb0dd8f011afe6b	1931503	pack/mods/_60FermiumBooter-1.4.1.jar	mods/%60FermiumBooter-1.4.1.jar
+F	787fdcd860c226e7017a806fb9a48ee10ed9bbffb275e91207635d421d7e26da	7266	pack/mods/AIImprovements-1.12-0.0.1b3.jar	mods/AIImprovements-1.12-0.0.1b3.jar
+F	9e4980728afb5941bdd67c435d2fddf260d88685563343f32d009bae01b64962	89615	pack/mods/AppleCore-mc1.12.2-3.4.0.jar	mods/AppleCore-mc1.12.2-3.4.0.jar
+F	4bbd37edecff0b420ab0eea166b5d7b4b41a9870bfb8647bf243140dc57f101e	33683	pack/mods/AppleSkin-mc1.12-1.0.14.jar	mods/AppleSkin-mc1.12-1.0.14.jar
+F	02ef19019fd8660bb3ae9b2977d548e474b9ec18efd41476a4213c0c8d81d455	5206101	pack/mods/BetterWithMods-1.12-3.0.0.jar	mods/BetterWithMods-1.12-3.0.0.jar
+F	2f04ba20aaea6bc510033c3e84ca666cd152b848e9e72683d9e55c8171c228a3	223570	pack/mods/CB-DTCompat-1.4.0-MC1.12.2.jar	mods/CB-DTCompat-1.4.0-MC1.12.2.jar
+F	1c435bd2eda5bfb4f9778301aab97091f0925c891edfae9dd6794f1dfe123482	1378661	pack/mods/CarbonConfig-1.12.2-2.0.2.1.jar	mods/CarbonConfig-1.12.2-2.0.2.1.jar
+F	67af839df9dc8b980e9aca59f8068e4058a5741bb9ed8190a469ae8b638b74ad	802011	pack/mods/Chunk-Pregenerator-1.12.2-4.4.9.2.jar	mods/Chunk-Pregenerator-1.12.2-4.4.9.2.jar
+F	539ba8c93d06ef3b913e7c64066b560561e06de60df066c7c713fcf59ebfa558	597719	pack/mods/ClimaticBiomes-3.0.1-MC1.12.2.jar	mods/ClimaticBiomes-3.0.1-MC1.12.2.jar
+F	3b611b599c2de6de4fded0cc65abb77f40e90cc5f4801d04c0bcdbb1af06e0d0	90465	pack/mods/CraftStudioAPI-universal-1.0.1.95-mc1.12-alpha.jar	mods/CraftStudioAPI-universal-1.0.1.95-mc1.12-alpha.jar
+F	2cd1c68628b78ff5b58a12c94c0dbed8e91d322836bf2d34c9156fee60390e53	1610755	pack/mods/CraftTweaker2-1.12-4.1.20.715.jar	mods/CraftTweaker2-1.12-4.1.20.715.jar
+F	2759356b95ffb6a88c14997ff508dfe30f66abaa8e2d8029e18e02dcb57bc8cc	9911871	pack/mods/CustomNPCs_1.12.2-_05Jul20_.jar	mods/CustomNPCs_1.12.2-(05Jul20).jar
+F	82b779226d671ebbe305fca7d673a10fbc192508d7667273628b5c299e6fd83c	909851	pack/mods/DynamicTrees-1.12.2-0.9.29.jar	mods/DynamicTrees-1.12.2-0.9.29.jar
+F	fc69fffcf0db05b54ea39ec3faaade906f5f79fe081a129e9830de3f4c4c39ca	2349948	pack/mods/Exotic_Birds_1.12.2-3.2.0.jar	mods/Exotic+Birds+1.12.2-3.2.0.jar
+F	623fc574f0227fec6cc9e26c3879a605f9b4499c0078ff085291901a5495a6ac	934370	pack/mods/FTBLib-5.4.7.2.jar	mods/FTBLib-5.4.7.2.jar
+F	e458fe39aba9ba28122496e54f826e4f61df515ed1f8d0c70cc9e56f67a5404a	425832	pack/mods/FTBUtilities-5.4.1.131.jar	mods/FTBUtilities-5.4.1.131.jar
+F	c16fc847d7c67b85137597c6837f43d7f9f43b18bc7bda250d871a137f0d6555	381455	pack/mods/FamiliarFauna-1.12.2-1.0.11.jar	mods/FamiliarFauna-1.12.2-1.0.11.jar
+F	28016063a5bce9f229305692795b1e64702985abc026d480e45d9663a96ea80c	476561	pack/mods/Farseek-1.12-2.5.1.jar	mods/Farseek-1.12-2.5.1.jar
+F	ff32b5ca671abdde943617d555bc7230984dc019b86dc66305cdca6e7d75d240	349581	pack/mods/Geolosys-1.12.2-3.0.12.jar	mods/Geolosys-1.12.2-3.0.12.jar
+F	0aaf9ed64d586828cd31b76b3920f61d03fd8aef320610279d2fc68ecbeeb61e	25897	pack/mods/GlitchCore-1.12.2-1.0.0-universal.jar	mods/GlitchCore-1.12.2-1.0.0-universal.jar
+F	fb13913e896f9d3fafedef90ac035f4ade9d92d8f33d2ccfc32c5487d559fdf8	32327	pack/mods/HardcoreDarkness-MC1.12.2-2.0.jar	mods/HardcoreDarkness-MC1.12.2-2.0.jar
+F	ffb745111790e27cb7810a2e03d5270265dee7ebd3ef98fde897c409d58b1e59	455763	pack/mods/IvToolkit-1.3.3-1.12.jar	mods/IvToolkit-1.3.3-1.12.jar
+F	7ecfaaf0d407c694d87a111f1dbd62a29a9924c10c9141d072a5a57462d7a3f2	238863	pack/mods/JustAFewFish-1.7_for_1.12.jar	mods/JustAFewFish-1.7_for_1.12.jar
+F	e978ce61b6177ec07a9db231d05a64415239c836f43f5cbcc0cf01bd9da4b3e2	30009	pack/mods/MTLib-3.0.7.jar	mods/MTLib-3.0.7.jar
+F	ca9692ac72ad56e19eff906e4f33ce27823051db9829078bfec388321e7fb04b	943048	pack/mods/MedievalCore.jar	mods/MedievalCore.jar
+F	4b5ff07a685aaa4fdd6bdf36eb2768b8a9d8f1ef0a8fc84a77154f767e274b6c	2457427	pack/mods/OptiFine-1.12.2_HD_U_G5.jar	mods/OptiFine-1.12.2_HD_U_G5.jar
+F	8b7c505a96f89ddcf42405fafbdeea75bd25d63cbdaa828f49ca5cd7a3e7f034	81988	pack/mods/PhosphorCrashFix-1.12.2-1.0.0.jar	mods/PhosphorCrashFix-1.12.2-1.0.0.jar
+F	d7e91840085ebaec178689b53c3cda80afb66e2c97d38562d0265a10d4db24db	1777665	pack/mods/ProjectVibrantJourneys-1.12.2-1.6.4.jar	mods/ProjectVibrantJourneys-1.12.2-1.6.4.jar
+F	1b060fbd1ceefe2647a305d8143fbecec214b66a745183ff0df6c974410a7467	75064	pack/mods/RealisticTorches-1.12.2-2.1.2.jar	mods/RealisticTorches-1.12.2-2.1.2.jar
+F	f52033660557331cc4847337325fdab05b07df0ceaa851382cf46137286e243a	185187	pack/mods/SereneSeasons-1.12.2-1.2.18-universal.jar	mods/SereneSeasons-1.12.2-1.2.18-universal.jar
+F	32fc4972d4198d5decb8d0b38c112915c29953ae172441a590bf51ce4a647188	269695	pack/mods/Streams-1.12-0.4.9.jar	mods/Streams-1.12-0.4.9.jar
+F	bc2e0190e54b85bb00285f2c5f7027aa7f2efdee69e3f85aef29cd4764dc66f3	357504	pack/mods/ToughAsNails-1.12.2-3.1.0.141-universal.jar	mods/ToughAsNails-1.12.2-3.1.0.141-universal.jar
+F	a8287c373f5effb49a3ff3193c3918f6648766c2721325c16ad4a37fd7c4b725	1557949	pack/mods/_1.12.2_-Epic-Knights-Armor-and-Weapons-6.2v_uncomplete_.jar	mods/[1.12.2]-Epic-Knights-Armor-and-Weapons-6.2v(uncomplete).jar
+F	d50cd4c483cdf45ecec594446b3957c41852c538f32decd6290bf8ff735ed56c	20890430	pack/mods/alexsmobs-1.12.2-1.5.0.jar	mods/alexsmobs-1.12.2-1.5.0.jar
+F	64fd58afeaeaf5293883c95f20aafbb165b3c1cab05029bb8b9324f6d4051adc	1626689	pack/mods/animania-1.12.2-base-2.0.3.28.jar	mods/animania-1.12.2-base-2.0.3.28.jar
+F	c1f9ca6613eed43587883149a0ed5987fbf50fc2377751f97d7c6bdb8a69ca4c	1926227	pack/mods/animania-1.12.2-extra-1.0.2.28.jar	mods/animania-1.12.2-extra-1.0.2.28.jar
+F	149f6288e012942a16504b2ba0a16a46ded961ef22a6647f5ca0da1be9098e82	5530204	pack/mods/animania-1.12.2-farm-1.0.2.28.jar	mods/animania-1.12.2-farm-1.0.2.28.jar
+F	ffd0b65060c1e8375b192acd34c7f71606fcd852bdd36b0f5e37f1c8b6536d1d	1239580	pack/mods/antiqueatlas-1.12.2-4.6.3.jar	mods/antiqueatlas-1.12.2-4.6.3.jar
+F	b81b66c2b90431d0cd764f95a2d7ff4561052fa040e8e694b7e2b8e8fa974a00	193604	pack/mods/bettercaves-1.12.2-2.0.4.jar	mods/bettercaves-1.12.2-2.0.4.jar
+F	b79c3ee4a234601b3d01bf5f5713e645c23edfcf3429466dc3f0727ba713075a	470001	pack/mods/citadel-1.12.2-1.1.0.jar	mods/citadel-1.12.2-1.1.0.jar
+F	a16c09b2ac5894078cc1aef5b6fe11a04cb5bf43f2a703a5b9545fb8be0b748a	2327451	pack/mods/coroutil-1.12.1-1.2.37.jar	mods/coroutil-1.12.1-1.2.37.jar
+F	96e3b33fd21a118fc47f8fd896fcaf4ee3d5c6ba14c1a6fbaa716137d3f5a639	1324905	pack/mods/dawnoftime_builder_edition-1.0.7.jar	mods/dawnoftime_builder_edition-1.0.7.jar
+F	25368cc87be83506b780b635d394b2c8e95e3ffd8b7f94dc079d3301f7835e92	46138	pack/mods/desirepaths-1.12.1-1.2.8.jar	mods/desirepaths-1.12.1-1.2.8.jar
+F	55dfe81a58d20575b6f6aa635d4296370c804fe52b77485b455aa99910da31a4	493904	pack/mods/firstaid-1.6.22.jar	mods/firstaid-1.6.22.jar
+F	ada4aeec1884eaf269aa3c7e0811a69f3cc897f89c809bb42836032aba9c272c	187856	pack/mods/incontrol-1.12-3.10.4.jar	mods/incontrol-1.12-3.10.4.jar
+F	d5f08917e5e8db2618b2b005bc403ee1cf16a24dafcc1e30885e236a985dc133	649218	pack/mods/jei_1.12.2-4.16.1.1012.jar	mods/jei_1.12.2-4.16.1.1012.jar
+F	27fa8dbfc7428168229a445dad82a4696ba52cf0a6e054833bff0f93931d8ceb	884550	pack/mods/llibrary-1.7.20-1.12.2.jar	mods/llibrary-1.7.20-1.12.2.jar
+F	2c2db905cae947092fe46dba301d1f6777fdab9cc8e79140c050b09fe62dda7a	493285	pack/mods/modtweaker-4.0.20.11.jar	mods/modtweaker-4.0.20.11.jar
+F	4ddfdeca30c2809047f8dec84c7fb49b820e930fbe1657d90404e64c78184228	920264	pack/mods/phosphor-forge-mc1.12.2-0.2.7-universal.jar	mods/phosphor-forge-mc1.12.2-0.2.7-universal.jar
+F	3e6d28452e55a8f4c78272b69036a502a1f9a33fcf9460235d672940ea11e65a	4267490	pack/mods/rats-3.2.14-1.12.2.jar	mods/rats-3.2.14-1.12.2.jar
+F	131ca88f046252718f9bddaa472b6becbc7f0ab1db563785250fd47a7e775e19	1656987	pack/mods/rustic-1.2.0.jar	mods/rustic-1.2.0.jar
+F	02ba2338e4fcb225aa6bd6a29ceba81eb15966b749b49c0e3adc85d8ce77fabc	641217	pack/mods/solcarrot-1.12.2-1.8.4.jar	mods/solcarrot-1.12.2-1.8.4.jar
+F	e2100abacb961274a7382fc350e5850a905bcdf65742c0ab30ae469f1f79c6be	193898	pack/mods/tlskincape1.12.2-1.4.jar	mods/tlskincape1.12.2-1.4.jar
+F	cd4768ded9e2b527e3fc093fdf4ce07f058187de7961bdc0d7fa821c1b756f75	1479535	pack/mods/worldedit-forge-mc1.12.2-6.1.10-dist.jar	mods/worldedit-forge-mc1.12.2-6.1.10-dist.jar
+F	8ada07da5ee77dad3527bd7278fbd05ee1fc8a597813b216a871a2d7d64cc64f	10180113	pack/base/serveur_rp_medieval.jar	serveur_rp_medieval.jar
+F	5d680b1d7138ddf1af58652c0696e1ffd4a7baf2393d59c52f2402a93638850d	30085	pack/base/serveur_rp_medieval.json	serveur_rp_medieval.json
+F	ee71c488bbd2c0daf3ed20c6c5829ecd8d0e4495bbd0a0bd3a9569519d803627	100	pack/base/servers.dat	servers.dat
+F	0f9dcbc1d63e2169e5d9ab9f8f075f77de1fe1109004d30c3723668d6017a443	147783	pack/base/TLauncherAdditional.json	TLauncherAdditional.json
+A	598a5029ccb13548e8d29f8991bf7701374325e2a30269532e749d3538caa040	738491	pack/config.zip	config	-
+A	a22805e2bb80b7e9e510fcc45906d3615f9e72ecd2bf2923316a22c8ed5fbbb0	37222	pack/scripts.zip	scripts	purge
+A	45f7a72b17f1def38504d1b0a0ec79a1cba7752d4a2c4c2ac9e6a3250224dad9	310528	pack/resourcepacks.zip	resourcepacks	-
