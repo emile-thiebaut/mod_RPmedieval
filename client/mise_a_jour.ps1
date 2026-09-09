@@ -10,7 +10,8 @@
 
 param(
     [string]$Depot = 'https://raw.githubusercontent.com/emile-thiebaut/mod_RPmedieval/main',
-    [switch]$SansLancement
+    [switch]$SansLancement,
+    [switch]$Reparer
 )
 
 $ErrorActionPreference = 'Stop'
@@ -70,8 +71,10 @@ Titre 'SERVEUR RP MEDIEVAL - VERIFICATION DU PACK'
 
 Write-Host '  Lecture de la liste des fichiers du pack...' -ForegroundColor Gray
 
-# L'horodatage contourne le cache de 5 minutes du CDN de GitHub.
-$urlManifeste = "$Depot/manifest.json?t=" + [DateTime]::UtcNow.Ticks
+# L'horodatage contourne le cache de 5 minutes du CDN de GitHub. Sur un
+# depot local (file://) il n'y a pas de cache et le ? casse le chemin.
+$urlManifeste = "$Depot/manifest.json"
+if ($Depot -like 'http*') { $urlManifeste += '?t=' + [DateTime]::UtcNow.Ticks }
 $client = NouveauClient
 try {
     $brut = $client.DownloadString($urlManifeste)
@@ -84,8 +87,13 @@ Write-Host ('  Version publiee : ' + $manifeste.version) -ForegroundColor Gray
 
 # ------------------------------------------------------------------ etat local
 
+# -Reparer : on oublie ce qu'on croit savoir et on reinstalle tout. C'est la
+# seule reponse a un dossier config/ ou scripts/ qu'un joueur a bricole.
 $etat = @{}
-if (Test-Path -LiteralPath $FichierEtat) {
+if ($Reparer) {
+    Write-Host ''
+    Write-Host '  Mode reparation : le pack va etre reinstalle en entier.' -ForegroundColor Yellow
+} elseif (Test-Path -LiteralPath $FichierEtat) {
     try {
         $lu = Get-Content -LiteralPath $FichierEtat -Raw -Encoding UTF8 | ConvertFrom-Json
         foreach ($p in $lu.PSObject.Properties) { $etat[$p.Name] = $p.Value }
@@ -108,7 +116,7 @@ $base = $manifeste.base.TrimEnd('/')
 $aFaire = @()
 foreach ($f in $manifeste.fichiers) {
     $cible = Join-Path $Instance ($f.chemin -replace '/', '\')
-    if ((Empreinte $cible) -ne $f.sha256) {
+    if ($Reparer -or (Empreinte $cible) -ne $f.sha256) {
         $aFaire += [PSCustomObject]@{ Entree = $f; Cible = $cible }
     }
 }

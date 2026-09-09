@@ -13,6 +13,10 @@ set -u
 
 DEPOT="${DEPOT:-https://raw.githubusercontent.com/emile-thiebaut/mod_RPmedieval/main}"
 
+# REPARER=1 : on oublie ce qu'on croit savoir et on reinstalle tout. C'est la
+# seule reponse a un dossier config/ ou scripts/ qu'un joueur a bricole.
+REPARER="${REPARER:-0}"
+
 # ------------------------------------------------------- ou vit Minecraft ici
 
 if [ -d "$HOME/Library/Application Support/minecraft" ] || [ "$(uname)" = "Darwin" ]; then
@@ -54,8 +58,12 @@ poids() {
 titre "SERVEUR RP MEDIEVAL - VERIFICATION DU PACK"
 printf "${GRIS}  Lecture de la liste des fichiers du pack...${NEUTRE}\n"
 
+# L'horodatage contourne le cache de 5 minutes du CDN de GitHub ; sur un
+# depot local (file://) il n'y a pas de cache et le ? casse le chemin.
 MANIFESTE="$TRAVAIL/manifest.txt"
-if ! curl -fsSL "$DEPOT/manifest.txt?t=$(date +%s)" -o "$MANIFESTE"; then
+URL_MANIFESTE="$DEPOT/manifest.txt"
+case "$DEPOT" in http*) URL_MANIFESTE="$URL_MANIFESTE?t=$(date +%s)" ;; esac
+if ! curl -fsSL "$URL_MANIFESTE" -o "$MANIFESTE"; then
     printf "${JAUNE}  [!] GitHub est injoignable. Le jeu va se lancer tel quel.${NEUTRE}\n"
     exit 0
 fi
@@ -99,13 +107,13 @@ TOTAL=0
 while IFS=$'\t' read -r type sha taille source cible extra; do
     case "$type" in
         F)
-            if [ "$(empreinte "$INSTANCE/$cible")" != "$sha" ]; then
+            if [ "$REPARER" = "1" ] || [ "$(empreinte "$INSTANCE/$cible")" != "$sha" ]; then
                 printf 'F\t%s\t%s\t%s\t%s\n' "$sha" "$taille" "$source" "$cible" >> "$A_FAIRE"
                 TOTAL=$((TOTAL + taille))
             fi
             ;;
         A)
-            if [ "$(lire_etat "$source")" != "$sha" ] || [ ! -d "$INSTANCE/$cible" ]; then
+            if [ "$REPARER" = "1" ] || [ "$(lire_etat "$source")" != "$sha" ] || [ ! -d "$INSTANCE/$cible" ]; then
                 printf 'A\t%s\t%s\t%s\t%s\t%s\n' "$sha" "$taille" "$source" "$cible" "$extra" >> "$A_FAIRE"
                 TOTAL=$((TOTAL + taille))
             fi
