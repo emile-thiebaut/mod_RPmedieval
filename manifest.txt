@@ -1,4 +1,4 @@
-V	2026.09.10-0a1810ce
+V	2026.09.10-33956db3
 S	irvine-abilities.tun.ply.gg
 B	https://raw.githubusercontent.com/emile-thiebaut/mod_RPmedieval/main
 F	35d97d1cb83b612c827cbb0f3a700494bf07c8c84aaf2ae8fce0256fda4e3cce	2466577	pack/mods/_mixinbooter-11.12.jar	mods/!mixinbooter-11.12.jar
@@ -27,7 +27,7 @@ F	fb13913e896f9d3fafedef90ac035f4ade9d92d8f33d2ccfc32c5487d559fdf8	32327	pack/mo
 F	ffb745111790e27cb7810a2e03d5270265dee7ebd3ef98fde897c409d58b1e59	455763	pack/mods/IvToolkit-1.3.3-1.12.jar	mods/IvToolkit-1.3.3-1.12.jar
 F	7ecfaaf0d407c694d87a111f1dbd62a29a9924c10c9141d072a5a57462d7a3f2	238863	pack/mods/JustAFewFish-1.7_for_1.12.jar	mods/JustAFewFish-1.7_for_1.12.jar
 F	e978ce61b6177ec07a9db231d05a64415239c836f43f5cbcc0cf01bd9da4b3e2	30009	pack/mods/MTLib-3.0.7.jar	mods/MTLib-3.0.7.jar
-F	aa4fe807176e8c8c85de0776b3963b177f28bb4f1f6a34d9b474421c62509755	1078975	pack/mods/MedievalCore.jar	mods/MedievalCore.jar
+F	d21d6f9e492a72616315e3db19d2a9ad8c4b11237f6f3fb8307e1d2fc4be971f	1078641	pack/mods/MedievalCore.jar	mods/MedievalCore.jar
 F	4b5ff07a685aaa4fdd6bdf36eb2768b8a9d8f1ef0a8fc84a77154f767e274b6c	2457427	pack/mods/OptiFine-1.12.2_HD_U_G5.jar	mods/OptiFine-1.12.2_HD_U_G5.jar
 F	8b7c505a96f89ddcf42405fafbdeea75bd25d63cbdaa828f49ca5cd7a3e7f034	81988	pack/mods/PhosphorCrashFix-1.12.2-1.0.0.jar	mods/PhosphorCrashFix-1.12.2-1.0.0.jar
 F	d7e91840085ebaec178689b53c3cda80afb66e2c97d38562d0265a10d4db24db	1777665	pack/mods/ProjectVibrantJourneys-1.12.2-1.6.4.jar	mods/ProjectVibrantJourneys-1.12.2-1.6.4.jar
@@ -60,7 +60,7 @@ F	e2100abacb961274a7382fc350e5850a905bcdf65742c0ab30ae469f1f79c6be	193898	pack/m
 F	cd4768ded9e2b527e3fc093fdf4ce07f058187de7961bdc0d7fa821c1b756f75	1479535	pack/mods/worldedit-forge-mc1.12.2-6.1.10-dist.jar	mods/worldedit-forge-mc1.12.2-6.1.10-dist.jar
 F	8ada07da5ee77dad3527bd7278fbd05ee1fc8a597813b216a871a2d7d64cc64f	10180113	pack/base/serveur_rp_medieval.jar	serveur_rp_medieval.jar
 F	5d680b1d7138ddf1af58652c0696e1ffd4a7baf2393d59c52f2402a93638850d	30085	pack/base/serveur_rp_medieval.json	serveur_rp_medieval.json
-F	a2486b9d08f7a115cd79b7a2c537bea8a5a1ef00e5e039a8422e2b5839cc009f	158269	pack/base/TLauncherAdditional.json	TLauncherAdditional.json
+F	f743f50a5d3d2d0dccd996605c061b9a7a70e2702a43a916bda6b18eb650b331	158269	pack/base/TLauncherAdditional.json	TLauncherAdditional.json
 A	5b0913b61c9ee4870309b332fe1017b9899e14b14b1f3c90027fbdb54551c9a6	753943	pack/config.zip	config	-
 A	3703fe6bd9d294a7f10101af1e320065323fa52db9fbe9717b3d0c26fd83e13b	35569	pack/scripts.zip	scripts	purge
 A	45f7a72b17f1def38504d1b0a0ec79a1cba7752d4a2c4c2ac9e6a3250224dad9	310528	pack/resourcepacks.zip	resourcepacks	-
