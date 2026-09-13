@@ -45,6 +45,7 @@
             },
             "installed": 52498061,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -65,6 +66,7 @@
           "downloadALL": 695934077,
           "available": true,
           "parser": false,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -118,6 +120,7 @@
             },
             "installed": 20872026,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -138,6 +141,7 @@
           "downloadALL": 239411780,
           "available": true,
           "parser": false,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -198,6 +202,7 @@
             },
             "installed": 153156,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -218,6 +223,7 @@
           "downloadALL": 174686,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -282,6 +288,7 @@
             },
             "installed": 249500,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -298,7 +305,8 @@
               "id": 776,
               "name": "CraftStudio API",
               "gameEntityId": 268704,
-              "dependencyType": "required"
+              "dependencyType": "required",
+              "available": false
             }
           ],
           "lastGameVersion": {
@@ -310,6 +318,7 @@
           "downloadALL": 441775,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -362,6 +371,7 @@
             },
             "installed": 227737,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -378,14 +388,16 @@
               "id": 776,
               "name": "CraftStudio API",
               "gameEntityId": 268704,
-              "dependencyType": "required"
+              "dependencyType": "required",
+              "available": false
             },
             {
               "gameType": "mod",
               "id": 1173,
               "name": "Animania Base",
               "gameEntityId": 261199,
-              "dependencyType": "required"
+              "dependencyType": "required",
+              "available": false
             }
           ],
           "lastGameVersion": {
@@ -397,6 +409,7 @@
           "downloadALL": 250889,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -449,6 +462,7 @@
             },
             "installed": 193758,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -465,14 +479,16 @@
               "id": 776,
               "name": "CraftStudio API",
               "gameEntityId": 268704,
-              "dependencyType": "required"
+              "dependencyType": "required",
+              "available": false
             },
             {
               "gameType": "mod",
               "id": 1173,
               "name": "Animania Base",
               "gameEntityId": 261199,
-              "dependencyType": "required"
+              "dependencyType": "required",
+              "available": false
             }
           ],
           "lastGameVersion": {
@@ -484,6 +500,7 @@
           "downloadALL": 212798,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -523,6 +540,7 @@
             },
             "installed": 99233,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -543,6 +561,7 @@
           "downloadALL": 4131002,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -607,6 +626,7 @@
             },
             "installed": 376247,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -623,14 +643,16 @@
               "id": 2,
               "name": "Fabric API",
               "gameEntityId": 306612,
-              "dependencyType": "required"
+              "dependencyType": "required",
+              "available": false
             },
             {
               "gameType": "mod",
               "id": 6285,
               "name": "GlitchCore",
               "gameEntityId": 955399,
-              "dependencyType": "required"
+              "dependencyType": "required",
+              "available": false
             }
           ],
           "lastGameVersion": {
@@ -642,6 +664,7 @@
           "downloadALL": 4453429,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -738,6 +761,7 @@
             },
             "installed": 881857,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -754,7 +778,8 @@
               "id": 2212,
               "name": "Dynamic Trees Plus",
               "gameEntityId": 478155,
-              "dependencyType": "optional"
+              "dependencyType": "optional",
+              "available": false
             }
           ],
           "lastGameVersion": {
@@ -766,6 +791,7 @@
           "downloadALL": 7032453,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -819,6 +845,7 @@
             },
             "installed": 482,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -839,6 +866,7 @@
           "downloadALL": 27673,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -918,6 +946,7 @@
             },
             "installed": 15325,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -938,6 +967,7 @@
           "downloadALL": 465764,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -988,6 +1018,7 @@
             },
             "installed": 61082,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -1008,6 +1039,7 @@
           "downloadALL": 86948,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -1025,12 +1057,14 @@
               "path": "mods/Farseek-1.12-2.5.1.jar",
               "url": "mods/Farseek-1.12-2.5.1.jar"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -1047,12 +1081,14 @@
               "path": "mods/rats-3.2.14-1.12.2.jar",
               "url": "mods/rats-3.2.14-1.12.2.jar"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -1092,6 +1128,7 @@
             },
             "installed": 3186720,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -1112,6 +1149,7 @@
           "downloadALL": 3530374,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -1129,12 +1167,14 @@
               "path": "mods/memory_repo/net/ilexiconn/llibrary-core/1.0.11-1.12.2/llibrary-core-1.0.11-1.12.2.jar",
               "url": "mods/memory_repo/net/ilexiconn/llibrary-core/1.0.11-1.12.2/llibrary-core-1.0.11-1.12.2.jar"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -1186,6 +1226,7 @@
             },
             "installed": 6607,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -1202,7 +1243,8 @@
               "id": 3628,
               "name": "JEITweaker",
               "gameEntityId": 368718,
-              "dependencyType": "required"
+              "dependencyType": "required",
+              "available": false
             }
           ],
           "lastGameVersion": {
@@ -1214,6 +1256,7 @@
           "downloadALL": 2927180,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -1254,6 +1297,7 @@
             },
             "installed": 10677,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -1274,6 +1318,7 @@
           "downloadALL": 25807,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -1321,6 +1366,7 @@
             },
             "installed": 22,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -1337,7 +1383,8 @@
               "id": 6321,
               "name": "FermiumBooter",
               "gameEntityId": 968474,
-              "dependencyType": "required"
+              "dependencyType": "required",
+              "available": false
             }
           ],
           "lastGameVersion": {
@@ -1349,6 +1396,7 @@
           "downloadALL": 61,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -1417,6 +1465,7 @@
             },
             "installed": 0,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -1437,6 +1486,7 @@
           "downloadALL": 2085867,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -1510,6 +1560,7 @@
             },
             "installed": 33979,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -1526,7 +1577,8 @@
               "id": 5680,
               "name": "Fusion (Connected Textures)",
               "gameEntityId": 854949,
-              "dependencyType": "required"
+              "dependencyType": "required",
+              "available": false
             }
           ],
           "lastGameVersion": {
@@ -1538,6 +1590,7 @@
           "downloadALL": 140065,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -1584,6 +1637,7 @@
             },
             "installed": 1910059,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -1604,6 +1658,7 @@
           "downloadALL": 5503865,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -1656,6 +1711,7 @@
             },
             "installed": 385776,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -1672,14 +1728,16 @@
               "id": 2,
               "name": "Fabric API",
               "gameEntityId": 306612,
-              "dependencyType": "required"
+              "dependencyType": "required",
+              "available": false
             },
             {
               "gameType": "mod",
               "id": 6285,
               "name": "GlitchCore",
               "gameEntityId": 955399,
-              "dependencyType": "required"
+              "dependencyType": "required",
+              "available": false
             }
           ],
           "lastGameVersion": {
@@ -1691,6 +1749,7 @@
           "downloadALL": 3396938,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -1752,6 +1811,7 @@
             },
             "installed": 67797,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -1772,6 +1832,7 @@
           "downloadALL": 1275683,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -1828,6 +1889,7 @@
             },
             "installed": 19376,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -1848,6 +1910,7 @@
           "downloadALL": 207148,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -1898,6 +1961,7 @@
             },
             "installed": 128589,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -1918,6 +1982,7 @@
           "downloadALL": 1808810,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -1973,6 +2038,7 @@
             },
             "installed": 1450209,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -1993,6 +2059,7 @@
           "downloadALL": 16944638,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -2039,6 +2106,7 @@
             },
             "installed": 100630,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -2059,6 +2127,7 @@
           "downloadALL": 179907,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -2076,12 +2145,14 @@
               "path": "mods/jei_1.12.2-4.16.1.1012.jar",
               "url": "mods/jei_1.12.2-4.16.1.1012.jar"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -2098,12 +2169,14 @@
               "path": "mods/memory_repo/com/github/mcjty/mcjtytools/0.0.21/mcjtytools-0.0.21.jar",
               "url": "mods/memory_repo/com/github/mcjty/mcjtytools/0.0.21/mcjtytools-0.0.21.jar"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -2161,6 +2234,7 @@
             },
             "installed": 250626,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -2181,6 +2255,7 @@
           "downloadALL": 343057,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -2233,6 +2308,7 @@
             },
             "installed": 241851,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -2253,6 +2329,7 @@
           "downloadALL": 298647,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -2324,6 +2401,7 @@
             },
             "installed": 382148,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -2340,14 +2418,16 @@
               "id": 332,
               "name": "Cloth Config API (FabricForgeNeoForge)",
               "gameEntityId": 348521,
-              "dependencyType": "required"
+              "dependencyType": "required",
+              "available": false
             },
             {
               "gameType": "mod",
               "id": 422,
               "name": "Architectury API",
               "gameEntityId": 419699,
-              "dependencyType": "required"
+              "dependencyType": "required",
+              "available": false
             }
           ],
           "lastGameVersion": {
@@ -2359,6 +2439,7 @@
           "downloadALL": 2619025,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -2406,6 +2487,7 @@
             },
             "installed": 123073,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -2426,6 +2508,7 @@
           "downloadALL": 164460,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -2480,6 +2563,7 @@
             },
             "installed": 12654,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -2500,6 +2584,7 @@
           "downloadALL": 99458,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -2583,6 +2668,7 @@
             },
             "installed": 223371,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -2599,7 +2685,8 @@
               "id": 1679,
               "name": "YUNG's API (ForgeNeoForge)",
               "gameEntityId": 421850,
-              "dependencyType": "required"
+              "dependencyType": "required",
+              "available": false
             }
           ],
           "lastGameVersion": {
@@ -2611,6 +2698,7 @@
           "downloadALL": 1998689,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -2659,6 +2747,7 @@
             },
             "installed": 186881,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -2679,6 +2768,7 @@
           "downloadALL": 225996,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -2735,6 +2825,7 @@
             },
             "installed": 238256,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -2755,6 +2846,7 @@
           "downloadALL": 1025290,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -2845,6 +2937,7 @@
             },
             "installed": 700,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -2865,6 +2958,7 @@
           "downloadALL": 535458,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -2913,6 +3007,7 @@
             },
             "installed": 115836,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -2933,6 +3028,7 @@
           "downloadALL": 141143,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -2977,6 +3073,7 @@
             },
             "installed": 6885,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -2997,6 +3094,7 @@
           "downloadALL": 9617,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -3041,6 +3139,7 @@
             },
             "installed": 505236,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -3061,6 +3160,7 @@
           "downloadALL": 1715561,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -3107,6 +3207,7 @@
             },
             "installed": 4509,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -3127,6 +3228,7 @@
           "downloadALL": 111570,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -3173,6 +3275,7 @@
             },
             "installed": 12831,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -3193,6 +3296,7 @@
           "downloadALL": 72511,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -3245,6 +3349,7 @@
             },
             "installed": 47057,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -3261,7 +3366,8 @@
               "id": 208,
               "name": "CraftTweaker",
               "gameEntityId": 239197,
-              "dependencyType": "required"
+              "dependencyType": "required",
+              "available": false
             }
           ],
           "lastGameVersion": {
@@ -3273,6 +3379,7 @@
           "downloadALL": 61610,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -3319,6 +3426,7 @@
             },
             "installed": 102,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -3339,6 +3447,7 @@
           "downloadALL": 7204,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -3385,6 +3494,7 @@
             },
             "installed": 1643,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -3401,14 +3511,16 @@
               "id": 1359,
               "name": "Climatic Biomes",
               "gameEntityId": 297361,
-              "dependencyType": "required"
+              "dependencyType": "required",
+              "available": false
             },
             {
               "gameType": "mod",
               "id": 879,
               "name": "Dynamic Trees",
               "gameEntityId": 252818,
-              "dependencyType": "required"
+              "dependencyType": "required",
+              "available": false
             }
           ],
           "lastGameVersion": {
@@ -3420,6 +3532,7 @@
           "downloadALL": 3718,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -3460,6 +3573,7 @@
             },
             "installed": 1877029,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -3476,7 +3590,8 @@
               "id": 859,
               "name": "Jade 🔍",
               "gameEntityId": 324717,
-              "dependencyType": "optional"
+              "dependencyType": "optional",
+              "available": false
             }
           ],
           "lastGameVersion": {
@@ -3488,6 +3603,7 @@
           "downloadALL": 23048113,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -3551,6 +3667,7 @@
             },
             "installed": 49232,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -3571,6 +3688,7 @@
           "downloadALL": 743027,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -3627,6 +3745,7 @@
             },
             "installed": 19411,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -3647,6 +3766,7 @@
           "downloadALL": 266485,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -3689,6 +3809,7 @@
             },
             "installed": 6329,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -3709,6 +3830,7 @@
           "downloadALL": 6394,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -3783,6 +3905,7 @@
             },
             "installed": 4365,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -3799,7 +3922,8 @@
               "id": 19205,
               "name": "Citadel (Legacy)",
               "gameEntityId": 1554236,
-              "dependencyType": "required"
+              "dependencyType": "required",
+              "available": false
             }
           ],
           "lastGameVersion": {
@@ -3811,6 +3935,7 @@
           "downloadALL": 4495,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -3864,6 +3989,7 @@
             },
             "installed": 98205,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -3884,6 +4010,7 @@
           "downloadALL": 513589,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -3936,6 +4063,7 @@
             },
             "installed": 73643,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -3956,6 +4084,7 @@
           "downloadALL": 292878,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -4002,6 +4131,7 @@
             },
             "installed": 22221,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -4022,6 +4152,7 @@
           "downloadALL": 21326,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -4039,12 +4170,14 @@
               "path": "mods/MedievalCore-0.33.0.jar",
               "url": "mods/MedievalCore-0.33.0.jar"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -4098,6 +4231,7 @@
             },
             "installed": 1390310,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -4118,6 +4252,7 @@
           "downloadALL": 14346873,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -4172,6 +4307,7 @@
             },
             "installed": 555,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -4192,6 +4328,7 @@
           "downloadALL": 73889,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -4250,6 +4387,7 @@
             },
             "installed": 1591,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -4266,7 +4404,8 @@
               "id": 7142,
               "name": "Carbon Config",
               "gameEntityId": 898104,
-              "dependencyType": "required"
+              "dependencyType": "required",
+              "available": false
             }
           ],
           "lastGameVersion": {
@@ -4278,6 +4417,7 @@
           "downloadALL": 339118,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -4295,12 +4435,14 @@
               "path": "mods/MedievalCore-0.35.0.jar",
               "url": "mods/MedievalCore-0.35.0.jar"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -4317,12 +4459,14 @@
               "path": "mods/MedievalCore-0.36.0.jar",
               "url": "mods/MedievalCore-0.36.0.jar"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -4339,12 +4483,14 @@
               "path": "mods/MedievalCore-0.37.0.jar",
               "url": "mods/MedievalCore-0.37.0.jar"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -4361,12 +4507,14 @@
               "path": "mods/MedievalCore-0.38.0.jar",
               "url": "mods/MedievalCore-0.38.0.jar"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -4383,12 +4531,14 @@
               "path": "mods/MedievalCore-0.39.0.jar",
               "url": "mods/MedievalCore-0.39.0.jar"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -4405,12 +4555,14 @@
               "path": "mods/MedievalCore-0.40.0.jar",
               "url": "mods/MedievalCore-0.40.0.jar"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -4427,12 +4579,14 @@
               "path": "mods/MedievalCore-0.43.1.jar",
               "url": "mods/MedievalCore-0.43.1.jar"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -4449,12 +4603,14 @@
               "path": "mods/MedievalCore-0.45.0.jar",
               "url": "mods/MedievalCore-0.45.0.jar"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -4471,12 +4627,14 @@
               "path": "mods/MedievalCore-0.47.0.jar",
               "url": "mods/MedievalCore-0.47.0.jar"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -4493,12 +4651,14 @@
               "path": "mods/MedievalCore.jar",
               "url": "mods/MedievalCore.jar"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -4515,12 +4675,14 @@
               "path": "mods/MedievalCore-0.48.0.jar",
               "url": "mods/MedievalCore-0.48.0.jar"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -4537,12 +4699,14 @@
               "path": "mods/MedievalCore-0.49.0.jar",
               "url": "mods/MedievalCore-0.49.0.jar"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -4559,12 +4723,14 @@
               "path": "mods/MedievalCore-0.50.0.jar",
               "url": "mods/MedievalCore-0.50.0.jar"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -4581,12 +4747,14 @@
               "path": "mods/MedievalCore-0.51.0.jar",
               "url": "mods/MedievalCore-0.51.0.jar"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -4634,6 +4802,7 @@
             },
             "installed": 26410,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -4654,6 +4823,7 @@
           "downloadALL": 156586,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -4714,6 +4884,7 @@
             },
             "installed": 80572,
             "available": false,
+            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -4734,6 +4905,7 @@
           "downloadALL": 109694,
           "available": true,
           "parser": true,
+          "notExists": false,
           "totalComments": 0,
           "adult": false
         },
@@ -4751,12 +4923,14 @@
               "path": "mods/MedievalCore-0.52.0.jar",
               "url": "mods/MedievalCore-0.52.0.jar"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -4773,12 +4947,14 @@
               "path": "mods/MedievalCore-0.53.0.jar",
               "url": "mods/MedievalCore-0.53.0.jar"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -4795,12 +4971,14 @@
               "path": "mods/MedievalCore-0.54.0.jar",
               "url": "mods/MedievalCore-0.54.0.jar"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -4817,12 +4995,14 @@
               "path": "mods/MedievalCore-0.55.0.jar",
               "url": "mods/MedievalCore-0.55.0.jar"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -4839,34 +5019,38 @@
               "path": "mods/MedievalCore-0.56.0.jar",
               "url": "mods/MedievalCore-0.56.0.jar"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
           "stateGameElement": "active",
-          "id": -263889067553,
+          "id": -711036685276,
           "name": "MedievalCore-0.57.0",
           "favorite": false,
           "version": {
-            "id": -263889067554,
+            "id": -711036685277,
             "name": "1.0",
             "metadata": {
-              "sha1": "ce5d2cbc1175af1eb79fa0c444be6f19c07aab16",
-              "size": 1199586,
+              "sha1": "ab4c1c18c188b40facf7b0ec3895cca2e6349224",
+              "size": 1232208,
               "path": "mods/MedievalCore-0.57.0.jar",
               "url": "mods/MedievalCore-0.57.0.jar"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         }
       ],
@@ -4888,12 +5072,14 @@
               "path": "saves/MONDE_SERVEUR",
               "url": "saves/MONDE_SERVEUR"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -4912,12 +5098,14 @@
               "path": "saves/Monde_serveur_RP",
               "url": "saves/Monde_serveur_RP"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -4936,12 +5124,14 @@
               "path": "saves/MONDE_SERVEUR_RP-",
               "url": "saves/MONDE_SERVEUR_RP-"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -4960,12 +5150,14 @@
               "path": "saves/MONDE_TEST",
               "url": "saves/MONDE_TEST"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -4984,12 +5176,14 @@
               "path": "saves/Nouveau monde",
               "url": "saves/Nouveau monde"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -5008,12 +5202,14 @@
               "path": "saves/Nouveau monde-",
               "url": "saves/Nouveau monde-"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -5032,12 +5228,14 @@
               "path": "saves/Nouveau monde--",
               "url": "saves/Nouveau monde--"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -5056,12 +5254,14 @@
               "path": "saves/Nouveau monde---",
               "url": "saves/Nouveau monde---"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -5080,12 +5280,14 @@
               "path": "saves/Nouveau monde----",
               "url": "saves/Nouveau monde----"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -5104,12 +5306,14 @@
               "path": "saves/Nouveau monde-----",
               "url": "saves/Nouveau monde-----"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -5128,12 +5332,14 @@
               "path": "saves/Nouveau monde------",
               "url": "saves/Nouveau monde------"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -5152,12 +5358,14 @@
               "path": "saves/Nouveau monde-------",
               "url": "saves/Nouveau monde-------"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -5176,12 +5384,14 @@
               "path": "saves/Nouveau monde--------",
               "url": "saves/Nouveau monde--------"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -5200,12 +5410,14 @@
               "path": "saves/Nouveau monde---------",
               "url": "saves/Nouveau monde---------"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -5224,12 +5436,14 @@
               "path": "saves/Nouveau monde----------",
               "url": "saves/Nouveau monde----------"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -5248,12 +5462,14 @@
               "path": "saves/Nouveau monde-----------",
               "url": "saves/Nouveau monde-----------"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -5272,12 +5488,14 @@
               "path": "saves/Nouveau monde------------",
               "url": "saves/Nouveau monde------------"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -5296,12 +5514,14 @@
               "path": "saves/Nouveau monde-------------",
               "url": "saves/Nouveau monde-------------"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -5320,12 +5540,14 @@
               "path": "saves/Nouveau monde--------------",
               "url": "saves/Nouveau monde--------------"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -5344,12 +5566,14 @@
               "path": "saves/Nouveau monde---------------",
               "url": "saves/Nouveau monde---------------"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -5368,12 +5592,14 @@
               "path": "saves/Nouveau monde----------------",
               "url": "saves/Nouveau monde----------------"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -5392,12 +5618,14 @@
               "path": "saves/Nouveau monde-----------------",
               "url": "saves/Nouveau monde-----------------"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -5416,12 +5644,14 @@
               "path": "saves/Nouveau monde------------------",
               "url": "saves/Nouveau monde------------------"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -5440,12 +5670,14 @@
               "path": "saves/Nouveau monde-------------------",
               "url": "saves/Nouveau monde-------------------"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
           "totalComments": 0
         },
         {
@@ -5464,12 +5696,144 @@
               "path": "saves/RP-medieval",
               "url": "saves/RP-medieval"
             },
-            "available": false
+            "available": false,
+            "remove": false
           },
           "userInstall": true,
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -6066440968400,
+          "name": "MONDE_SERVEUR_RP_2",
+          "favorite": false,
+          "version": {
+            "id": -6066441241400,
+            "name": "1.0",
+            "metadata": {
+              "folders": [
+                "MONDE_SERVEUR_RP_2"
+              ],
+              "size": 0,
+              "path": "saves/MONDE_SERVEUR_RP_2",
+              "url": "saves/MONDE_SERVEUR_RP_2"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -6066441263900,
+          "name": "Nouveau monde--------------------",
+          "favorite": false,
+          "version": {
+            "id": -6066441282600,
+            "name": "1.0",
+            "metadata": {
+              "folders": [
+                "Nouveau monde--------------------"
+              ],
+              "size": 0,
+              "path": "saves/Nouveau monde--------------------",
+              "url": "saves/Nouveau monde--------------------"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -6066441290400,
+          "name": "Nouveau monde---------------------",
+          "favorite": false,
+          "version": {
+            "id": -6066441302200,
+            "name": "1.0",
+            "metadata": {
+              "folders": [
+                "Nouveau monde---------------------"
+              ],
+              "size": 0,
+              "path": "saves/Nouveau monde---------------------",
+              "url": "saves/Nouveau monde---------------------"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -6066441305600,
+          "name": "Nouveau monde----------------------",
+          "favorite": false,
+          "version": {
+            "id": -6066441315400,
+            "name": "1.0",
+            "metadata": {
+              "folders": [
+                "Nouveau monde----------------------"
+              ],
+              "size": 0,
+              "path": "saves/Nouveau monde----------------------",
+              "url": "saves/Nouveau monde----------------------"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -6066441318500,
+          "name": "Preview",
+          "favorite": false,
+          "version": {
+            "id": -6066441327200,
+            "name": "1.0",
+            "metadata": {
+              "folders": [
+                "Preview"
+              ],
+              "size": 0,
+              "path": "saves/Preview",
+              "url": "saves/Preview"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
           "totalComments": 0
         }
       ],
@@ -5485,6 +5849,7 @@
       "id": -518622587295501,
       "name": "1.0",
       "available": false,
+      "remove": false,
       "minecraftVersionTypes": [
         {
           "id": 1,
@@ -5496,6 +5861,7 @@
     "populateStatus": false,
     "available": false,
     "parser": false,
+    "notExists": false,
     "totalComments": 0
   },
   "source": "local_version_repo",
