@@ -5030,7 +5030,7 @@
           "totalComments": 0
         },
         {
-          "stateGameElement": "active",
+          "stateGameElement": "no_active",
           "id": -711036685276,
           "name": "MedievalCore-0.57.0",
           "favorite": false,
@@ -5038,10 +5038,417 @@
             "id": -711036685277,
             "name": "1.0",
             "metadata": {
-              "sha1": "ab4c1c18c188b40facf7b0ec3895cca2e6349224",
-              "size": 1232208,
+              "sha1": "bbc651b3761c79dd8697b3ecdc3b44804dca629e",
+              "size": 1231108,
               "path": "mods/MedievalCore-0.57.0.jar",
               "url": "mods/MedievalCore-0.57.0.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "no_active",
+          "id": -150293293631,
+          "name": "MedievalCore-0.58.0",
+          "favorite": false,
+          "version": {
+            "id": -150293293632,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "d7e0041bd955f65d1c1769f32fa02e72978f85b2",
+              "size": 1248551,
+              "path": "mods/MedievalCore-0.58.0.jar",
+              "url": "mods/MedievalCore-0.58.0.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "no_active",
+          "id": 508933,
+          "name": "Distant Horizons A Level of Detail mod",
+          "author": "james_seibel",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/distant-horizons",
+          "favorite": false,
+          "categories": [],
+          "picture": 1075291,
+          "pictures": [
+            336908,
+            389408,
+            802876,
+            270640,
+            270643,
+            270639,
+            336911,
+            802878,
+            389409,
+            248930,
+            336910,
+            802877,
+            588629,
+            248928,
+            248925,
+            336907,
+            336909,
+            270644
+          ],
+          "lanName": "distant-horizons",
+          "version": {
+            "id": 8389134,
+            "name": "3.2.0-b - 1.12.2 forge",
+            "updateDate": 1783456036000,
+            "type": "beta",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "93a8eda66824fce392f0174fa69937149a96c2d9",
+              "size": 25522372,
+              "path": "mods/DistantHorizons-3.2.0-b-1.12.2-forge.jar",
+              "url": "/mods/508933/8389134/DistantHorizons-3.2.0-b-1.12.2-forge.jar"
+            },
+            "installed": 2937,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 70,
+            "name": "26.2"
+          },
+          "updated": 1781902800000,
+          "update": 1781902800000,
+          "downloadALL": 1772998,
+          "available": true,
+          "parser": true,
+          "notExists": false,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "no_active",
+          "id": 1214490,
+          "name": "Cleanroom Relauncher",
+          "author": "CleanroomMC",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/cleanroom-relauncher",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            },
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 1050220,
+          "pictures": [],
+          "lanName": "cleanroom-relauncher",
+          "version": {
+            "id": 8839582,
+            "name": "Cleanroom Relauncher 1.1.4",
+            "updateDate": 1788894609000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "3b8adfb23f353635895798fb058343c75ef2bcdb",
+              "size": 2842585,
+              "path": "mods/!cleanroom-relauncher-1.1.4.jar",
+              "url": "/mods/1214490/8839582/!cleanroom-relauncher-1.1.4.jar"
+            },
+            "installed": 34,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1787864400000,
+          "update": 1787864400000,
+          "downloadALL": 3000,
+          "available": true,
+          "parser": true,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "no_active",
+          "id": 1336201,
+          "name": "Improved Cleanroom Relauncher",
+          "author": "TheOriginalGolem",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/improved-cleanroom-relauncher",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            },
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 1211129,
+          "pictures": [],
+          "lanName": "improved-cleanroom-relauncher",
+          "version": {
+            "id": 7769030,
+            "name": "!improved-relauncher-0.3.8",
+            "updateDate": 1773699422000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "91876176e33c24c68ce187e376002a2749b3a239",
+              "size": 403520,
+              "path": "mods/!improved-relauncher-0.3.8.jar",
+              "url": "/mods/1336201/7769030/!improved-relauncher-0.3.8.jar"
+            },
+            "installed": 802,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1773608400000,
+          "update": 1773608400000,
+          "downloadALL": 926,
+          "available": true,
+          "parser": true,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "no_active",
+          "id": 1235372,
+          "name": "Scalar Legacy",
+          "author": "kappa_maintainer",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/scalar-legacy",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 1182453,
+          "pictures": [],
+          "lanName": "scalar-legacy",
+          "version": {
+            "id": 6842491,
+            "name": "1.0.1",
+            "updateDate": 1754219642000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "5c5998c34798647802e14eab6660ba7afdf1a099",
+              "size": 25464431,
+              "path": "mods/Scalar Legacy-1.0.1.jar",
+              "url": "/mods/1235372/6842491/Scalar%20Legacy-1.0.1.jar"
+            },
+            "installed": 140,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1754168400000,
+          "update": 1754168400000,
+          "downloadALL": 140,
+          "available": true,
+          "parser": true,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "no_active",
+          "id": 1005815,
+          "name": "Fugue",
+          "author": "kappa_maintainer",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/fugue",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            }
+          ],
+          "picture": 1137321,
+          "pictures": [],
+          "lanName": "fugue",
+          "version": {
+            "id": 8629748,
+            "name": "+-0.24.3",
+            "updateDate": 1786511069000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "2f0935e476bc218dd4e1b8d9877ad2ae16a66b58",
+              "size": 305146,
+              "path": "mods/%2BFugue-0.24.3.jar",
+              "url": "/mods/1005815/8629748/%252BFugue-0.24.3.jar"
+            },
+            "installed": 121,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1786482000000,
+          "update": 1786482000000,
+          "downloadALL": 814,
+          "available": true,
+          "parser": true,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "no_active",
+          "id": -765949527346,
+          "name": "MedievalCore-0.59.0",
+          "favorite": false,
+          "version": {
+            "id": -765949527347,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "1205e7623f185d2b3a4160c45d4ee709c62af6d8",
+              "size": 1287234,
+              "path": "mods/MedievalCore-0.59.0.jar",
+              "url": "mods/MedievalCore-0.59.0.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -298265562083,
+          "name": "MedievalCore-0.60.0",
+          "favorite": false,
+          "version": {
+            "id": -298265562084,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "16fbc73828f34b96f716fd1b76cccf8496abb21f",
+              "size": 1306133,
+              "path": "mods/MedievalCore-0.60.0.jar",
+              "url": "mods/MedievalCore-0.60.0.jar"
             },
             "available": false,
             "remove": false
