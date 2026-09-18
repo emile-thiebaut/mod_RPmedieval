@@ -5437,7 +5437,7 @@
           "totalComments": 0
         },
         {
-          "stateGameElement": "active",
+          "stateGameElement": "no_active",
           "id": -298265562083,
           "name": "MedievalCore-0.60.0",
           "favorite": false,
@@ -5449,6 +5449,54 @@
               "size": 1306133,
               "path": "mods/MedievalCore-0.60.0.jar",
               "url": "mods/MedievalCore-0.60.0.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "no_active",
+          "id": -458600383278,
+          "name": "MedievalCore-0.61.0",
+          "favorite": false,
+          "version": {
+            "id": -458600383279,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "e0c4838608896c31c3448ef8b999560f5bc8dfdd",
+              "size": 1309232,
+              "path": "mods/MedievalCore-0.61.0.jar",
+              "url": "mods/MedievalCore-0.61.0.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -301197267077800,
+          "name": "MedievalCore-0.63.0",
+          "favorite": false,
+          "version": {
+            "id": -301197277866300,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "7832a63eb9f34f0c4610abcdd4ecb47c8bca0ec7",
+              "size": 1320059,
+              "path": "mods/MedievalCore-0.63.0.jar",
+              "url": "mods/MedievalCore-0.63.0.jar"
             },
             "available": false,
             "remove": false
