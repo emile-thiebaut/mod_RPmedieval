@@ -5485,7 +5485,7 @@
           "totalComments": 0
         },
         {
-          "stateGameElement": "active",
+          "stateGameElement": "no_active",
           "id": -301197267077800,
           "name": "MedievalCore-0.63.0",
           "favorite": false,
@@ -5506,6 +5506,198 @@
           "available": false,
           "parser": false,
           "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "no_active",
+          "id": 521932,
+          "name": "Medieval Music",
+          "author": "someaddon",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/medieval-music",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 800305,
+          "pictures": [],
+          "lanName": "medieval-music",
+          "version": {
+            "id": 3548690,
+            "name": "medivalmusic-1.1",
+            "updateDate": 1638613185000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "c722b2e93b634a655e6aa624bab8e66a774752b2",
+              "size": 188686136,
+              "path": "mods/medivalmusic-1.1.jar",
+              "url": "/mods/521932/3548690/medivalmusic-1.1.jar"
+            },
+            "installed": 26103,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 3,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 72,
+            "name": "26.3"
+          },
+          "updated": 1789333200000,
+          "update": 1789333200000,
+          "downloadALL": 185779,
+          "available": true,
+          "parser": true,
+          "notExists": false,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "no_active",
+          "id": 444384,
+          "name": "Nef's Medieval decoration",
+          "author": "neoelfe0",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/neoelfeos-medieval-pub-decoration",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 83,
+              "name": "storage",
+              "shortName": "storage",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 846134,
+          "pictures": [
+            207947,
+            747638,
+            218998,
+            228650,
+            747635,
+            219121,
+            218997,
+            747639,
+            747640,
+            207939,
+            207948,
+            234368,
+            218999,
+            747634,
+            207949,
+            224327,
+            225293,
+            217794,
+            218996,
+            747637,
+            217793,
+            747636,
+            246041,
+            215335,
+            221661
+          ],
+          "lanName": "neoelfeos-medieval-pub-decoration",
+          "version": {
+            "id": 3373604,
+            "name": "NefsMedievalPub+v0.9(1.12.2)",
+            "updateDate": 1625211795000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "ea8c57d1c3b1ad47fa6354c043edf6c2b9aff273",
+              "size": 3685608,
+              "path": "mods/NefsMedievalPub+v0.9(1.12.2).jar",
+              "url": "/mods/444384/3373604/NefsMedievalPub%2Bv0.9(1.12.2).jar"
+            },
+            "installed": 28346,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 3,
+          "downloadMonth": 9,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1749934800000,
+          "update": 1749934800000,
+          "downloadALL": 288980,
+          "available": true,
+          "parser": true,
+          "notExists": false,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -360753568905,
+          "name": "MedievalCore-0.64.0",
+          "favorite": false,
+          "version": {
+            "id": -360753568906,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "d1dfe4b241f255373a7b54af770d9ddda851e637",
+              "size": 1336452,
+              "path": "mods/MedievalCore-0.64.0.jar",
+              "url": "mods/MedievalCore-0.64.0.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
           "totalComments": 0
         }
       ],
