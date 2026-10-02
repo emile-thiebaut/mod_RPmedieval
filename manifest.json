@@ -1,6 +1,6 @@
 {
  "pack": "Serveur RP Medieval",
- "version": "2026.10.02-db427fbc",
+ "version": "2026.10.02-94794f67",
  "serveur": "irvine-abilities.tun.ply.gg",
  "instance": "serveur_rp_medieval",
  "base": "https://raw.githubusercontent.com/emile-thiebaut/mod_RPmedieval/main",
@@ -164,8 +164,8 @@
   {
    "chemin": "mods/MedievalCore.jar",
    "source": "pack/mods/MedievalCore.jar",
-   "sha256": "cca61be66876e9e812119c7e1af1f744c1d362267c4b29ba2e0f497ff1d0c5ee",
-   "taille": 1457836
+   "sha256": "b89bec3c20bbfa9f947a7c4012d951fc0d5053828aa430683f693edb6ef9980c",
+   "taille": 1530190
   },
   {
    "chemin": "mods/OptiFine-1.12.2_HD_U_G5.jar",
@@ -362,16 +362,16 @@
   {
    "chemin": "TLauncherAdditional.json",
    "source": "pack/base/TLauncherAdditional.json",
-   "sha256": "454ed6789adf3ae50390135f43a6d8062c13dd2b1a4920206bdcb1a929bf3cc5",
-   "taille": 191887
+   "sha256": "914f576e90099f618cb5fb823a499d9168efbb574a7267aaf6d87e4e7ac14496",
+   "taille": 192634
   }
  ],
  "archives": [
   {
    "cible": "config",
    "source": "pack/config.zip",
-   "sha256": "73e97cc5a5d350781aae988dd1b40128f4e05150fbc48d7d50a489f66a5104f4",
-   "taille": 776462,
+   "sha256": "4cded71e3549faabc85fbcc93facc7ab1cf69d159aaedb67ba5fcc6306a3375e",
+   "taille": 776463,
    "purge": false
   },
   {
