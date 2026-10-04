@@ -5775,7 +5775,7 @@
           "totalComments": 0
         },
         {
-          "stateGameElement": "active",
+          "stateGameElement": "no_active",
           "id": -404893938282,
           "name": "MedievalCore-0.70.0",
           "favorite": false,
@@ -5787,6 +5787,30 @@
               "size": 1530190,
               "path": "mods/MedievalCore-0.70.0.jar",
               "url": "mods/MedievalCore-0.70.0.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -510438427799,
+          "name": "MedievalCore-0.71.0",
+          "favorite": false,
+          "version": {
+            "id": -510438427800,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "b4a8f7be03b2e287037de883c750e9ace3d57247",
+              "size": 1533954,
+              "path": "mods/MedievalCore-0.71.0.jar",
+              "url": "mods/MedievalCore-0.71.0.jar"
             },
             "available": false
           },
