@@ -5799,7 +5799,7 @@
           "totalComments": 0
         },
         {
-          "stateGameElement": "active",
+          "stateGameElement": "no_active",
           "id": -510438427799,
           "name": "MedievalCore-0.71.0",
           "favorite": false,
@@ -5811,6 +5811,340 @@
               "size": 1533954,
               "path": "mods/MedievalCore-0.71.0.jar",
               "url": "mods/MedievalCore-0.71.0.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -372569159010900,
+          "name": "akka-actor_2.11-2.3.3",
+          "favorite": false,
+          "version": {
+            "id": -372569173576200,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "ed62e9fc709ca0f2ff1a3220daa8b70a2870078e",
+              "size": 2514991,
+              "path": "mods/1.12.2/akka-actor_2.11-2.3.3.jar",
+              "url": "mods/1.12.2/akka-actor_2.11-2.3.3.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -372569173638000,
+          "name": "config-1.2.1",
+          "favorite": false,
+          "version": {
+            "id": -372569182653300,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "f771f71fdae3df231bcd54d5ca2d57f0bf93f467",
+              "size": 219554,
+              "path": "mods/1.12.2/config-1.2.1.jar",
+              "url": "mods/1.12.2/config-1.2.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -372569182710100,
+          "name": "scala-actors-2.11.0",
+          "favorite": false,
+          "version": {
+            "id": -372569193029700,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "8ccfb6541de179bb1c4d45cf414acee069b7f78b",
+              "size": 474087,
+              "path": "mods/1.12.2/scala-actors-2.11.0.jar",
+              "url": "mods/1.12.2/scala-actors-2.11.0.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -372569193087100,
+          "name": "scala-actors-migration_2.11-1.1.0",
+          "favorite": false,
+          "version": {
+            "id": -372569201122100,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "dfa8bc42b181d5b9f1a5dd147f8ae308b893eb6f",
+              "size": 58018,
+              "path": "mods/1.12.2/scala-actors-migration_2.11-1.1.0.jar",
+              "url": "mods/1.12.2/scala-actors-migration_2.11-1.1.0.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -372569201184000,
+          "name": "scala-compiler-2.11.1",
+          "favorite": false,
+          "version": {
+            "id": -372569227758100,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "56ea2e6c025e0821f28d73ca271218b8dd04926a",
+              "size": 13449765,
+              "path": "mods/1.12.2/scala-compiler-2.11.1.jar",
+              "url": "mods/1.12.2/scala-compiler-2.11.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -372569227819300,
+          "name": "scala-continuations-library_2.11-1.0.2_mc",
+          "favorite": false,
+          "version": {
+            "id": -372569366162100,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "0e517c53a7e9acd6b1668c5a35eccbaa3bab9aac",
+              "size": 25365,
+              "path": "mods/1.12.2/scala-continuations-library_2.11-1.0.2_mc.jar",
+              "url": "mods/1.12.2/scala-continuations-library_2.11-1.0.2_mc.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -372569366218700,
+          "name": "scala-continuations-plugin_2.11.1-1.0.2_mc",
+          "favorite": false,
+          "version": {
+            "id": -372569376501900,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "f361a3283452c57fa30c1ee69448995de23c60f7",
+              "size": 206575,
+              "path": "mods/1.12.2/scala-continuations-plugin_2.11.1-1.0.2_mc.jar",
+              "url": "mods/1.12.2/scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -372569376556800,
+          "name": "scala-library-2.11.1",
+          "favorite": false,
+          "version": {
+            "id": -372569394240400,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "0e11da23da3eabab9f4777b9220e60d44c1aab6a",
+              "size": 5538130,
+              "path": "mods/1.12.2/scala-library-2.11.1.jar",
+              "url": "mods/1.12.2/scala-library-2.11.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -372569394309700,
+          "name": "scala-parser-combinators_2.11-1.0.1",
+          "favorite": false,
+          "version": {
+            "id": -372569404644000,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "f05d7345bf5a58924f2837c6c1f4d73a938e1ff0",
+              "size": 419701,
+              "path": "mods/1.12.2/scala-parser-combinators_2.11-1.0.1.jar",
+              "url": "mods/1.12.2/scala-parser-combinators_2.11-1.0.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -372569404703900,
+          "name": "scala-reflect-2.11.1",
+          "favorite": false,
+          "version": {
+            "id": -372569420188500,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "6580347e61cc7f8e802941e7fde40fa83b8badeb",
+              "size": 4372892,
+              "path": "mods/1.12.2/scala-reflect-2.11.1.jar",
+              "url": "mods/1.12.2/scala-reflect-2.11.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -372569420250300,
+          "name": "scala-swing_2.11-1.0.1",
+          "favorite": false,
+          "version": {
+            "id": -372569431106100,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "b1cdd92bd47b1e1837139c1c53020e86bb9112ae",
+              "size": 726500,
+              "path": "mods/1.12.2/scala-swing_2.11-1.0.1.jar",
+              "url": "mods/1.12.2/scala-swing_2.11-1.0.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -372569431166700,
+          "name": "scala-xml_2.11-1.0.2",
+          "favorite": false,
+          "version": {
+            "id": -372569441647200,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "820fbca7e524b530fdadc594c39d49a21ea0337e",
+              "size": 648678,
+              "path": "mods/1.12.2/scala-xml_2.11-1.0.2.jar",
+              "url": "mods/1.12.2/scala-xml_2.11-1.0.2.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "no_active",
+          "id": -70190115505,
+          "name": "MedievalCore-0.72.0",
+          "favorite": false,
+          "version": {
+            "id": -70190115506,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "b95e3cd929ee7f18b77d6e03b1176166d3cbb02c",
+              "size": 1550735,
+              "path": "mods/MedievalCore-0.72.0.jar",
+              "url": "mods/MedievalCore-0.72.0.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -577748715600,
+          "name": "MedievalCore-0.72.1",
+          "favorite": false,
+          "version": {
+            "id": -577748715601,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "e7b3c9cc77c5548751a06d9e73f606fdc6b71a56",
+              "size": 1551418,
+              "path": "mods/MedievalCore-0.72.1.jar",
+              "url": "mods/MedievalCore-0.72.1.jar"
             },
             "available": false
           },
